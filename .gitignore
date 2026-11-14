@@ -1,0 +1,101 @@
+
+# =====================================
+# ENVIRONMENT VARIABLES & SECRETS
+# =====================================
+.env
+.env.*
+!.env.example
+
+# =====================================
+# PYTHON / DJANGO
+# =====================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Django
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+*.log
+
+# Python tools
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# =====================================
+# MACHINE LEARNING / CBIR
+# =====================================
+*.h5
+*.hdf5
+*.keras
+*.pth
+*.pt
+*.onnx
+*.tflite
+*.pkl
+*.pickle
+*.npy
+*.npz
+
+# Model weights and generated feature indexes
+models/weights/
+models/checkpoints/
+feature_vectors/
+faiss_indexes/
+
+# =====================================
+# NODE / REACT / VITE
+# =====================================
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/coverage/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# =====================================
+# DOCKER
+# =====================================
+.docker/
+docker-data/
+
+# =====================================
+# IDE / EDITORS
+# =====================================
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+*.swo
+
+# =====================================
+# OPERATING SYSTEM
+# =====================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =====================================
+# TEMPORARY FILES
+# =====================================
+*.tmp
+*.bak
+*.old
+*.orig
+.cache/
+temp/
+tmp/
