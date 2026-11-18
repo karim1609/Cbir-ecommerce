@@ -869,12 +869,12 @@ Example configuration:
 
 ```env
 # Django
-DEBUG=True
-SECRET_KEY=change-this-secret-key
-ALLOWED_HOSTS=localhost,127.0.0.1,backend
+DJANGO_DEBUG=True
+DJANGO_SECRET_KEY=change-this-to-a-long-random-secret
+DJANGO_ALLOWED_HOSTS=localhost,127.0.0.1,backend
 
 # PostgreSQL
-POSTGRES_DB=cbir_db
+POSTGRES_DB=cbir_ecommerce
 POSTGRES_USER=cbir_user
 POSTGRES_PASSWORD=change-this-password
 POSTGRES_HOST=db
@@ -889,22 +889,71 @@ Never commit real secrets or production credentials to GitHub.
 ### 3. Build and Start Containers
 
 ```bash
-docker compose up --build
+docker compose up -d --build
 ```
 
 ### 4. Apply Database Migrations
+
+Apply the database schema and model definitions to the PostgreSQL container:
 
 ```bash
 docker compose exec backend python manage.py migrate
 ```
 
-### 5. Create a Django Administrator
+### 5. Seed the Database & Media (Data Persistence)
+
+To populate the catalog with categories, products, and local images for CBIR extraction, you have two options:
+
+#### Option A — Fresh Seed & Image Download (Run Once)
+Fetches catalog data from DummyJSON, creates all 24 categories, 194 products with `external_id`, and downloads physical images to the local media directory (`/app/media/products/`):
+
+```bash
+# Seed all 194 products with primary images for CBIR:
+docker compose exec backend python manage.py seed_dummyjson --primary-only
+
+# Or test with the first 10 products:
+docker compose exec backend python manage.py seed_dummyjson --limit 10 --primary-only
+```
+
+> **Data Persistence in Docker:**
+> - Database records persist in the `postgres_data` volume across container stops and restarts.
+> - Downloaded product images persist in the `media_data` volume.
+
+#### Option B — 100% Offline Restore from Local Fixture
+If you already have the repository cloned with the included fixture (`initial_products.json`), you can restore the database records without any internet connection:
+
+```bash
+docker compose exec backend python manage.py loaddata initial_products.json
+```
+
+#### Exporting / Backing Up Data
+To freeze your current database records into a fresh fixture file:
+
+```bash
+docker compose exec backend python manage.py dumpdata categories products --indent 2 -o /app/apps/products/fixtures/initial_products.json
+```
+
+### 6. Create a Django Administrator
+
+Create a superuser to access the Django administration panel:
 
 ```bash
 docker compose exec backend python manage.py createsuperuser
 ```
 
-### 6. Access the Application
+### 7. Verify Database Contents
+
+To verify that the database and images are properly stored:
+
+```bash
+# Verify product and category counts in PostgreSQL:
+docker compose exec db psql -U cbir_user -d cbir_ecommerce -c "SELECT (SELECT count(*) FROM categories_category) as categories, (SELECT count(*) FROM products_product) as products, (SELECT count(*) FROM products_productimage) as images;"
+
+# Verify image files on disk:
+docker compose exec backend ls /app/media/products/
+```
+
+### 8. Access the Application
 
 | Service | URL |
 |---|---|
