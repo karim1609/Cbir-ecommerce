@@ -63,10 +63,13 @@ export async function getProduct(id: number): Promise<Product> {
 
 export async function getFeaturedProducts(): Promise<Product[]> {
   try {
-    const response = await apiClient.get<PaginatedResponse<Product>>('/products/', {
-      params: { featured: true, pageSize: 6 },
+    const response = await apiClient.get<PaginatedResponse<Product> | Product[]>('/products/', {
+      params: { featured: true, pageSize: 8 },
     });
-    return response.data.results;
+    const data = response.data;
+    if (Array.isArray(data)) return data;
+    if (data && Array.isArray(data.results)) return data.results;
+    return mockFeaturedProducts;
   } catch (error) {
     console.warn('Failed to load featured products from API:', error);
     return mockFeaturedProducts;
@@ -75,10 +78,13 @@ export async function getFeaturedProducts(): Promise<Product[]> {
 
 export async function getTrendingProducts(): Promise<Product[]> {
   try {
-    const response = await apiClient.get<PaginatedResponse<Product>>('/products/', {
+    const response = await apiClient.get<PaginatedResponse<Product> | Product[]>('/products/', {
       params: { trending: true, pageSize: 8 },
     });
-    return response.data.results;
+    const data = response.data;
+    if (Array.isArray(data)) return data;
+    if (data && Array.isArray(data.results)) return data.results;
+    return mockTrendingProducts;
   } catch (error) {
     console.warn('Failed to load trending products from API:', error);
     return mockTrendingProducts;
@@ -87,8 +93,11 @@ export async function getTrendingProducts(): Promise<Product[]> {
 
 export async function getCategories(): Promise<Category[]> {
   try {
-    const response = await apiClient.get<Category[]>('/categories/');
-    return response.data;
+    const response = await apiClient.get<Category[] | { results: Category[] }>('/categories/');
+    const data = response.data;
+    if (Array.isArray(data)) return data;
+    if (data && Array.isArray((data as any).results)) return (data as any).results;
+    return mockCategories;
   } catch (error) {
     console.warn('Failed to load categories from API:', error);
     return mockCategories;
