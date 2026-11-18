@@ -1,0 +1,5892 @@
+[
+{
+  "model": "categories.category",
+  "pk": 1,
+  "fields": {
+    "name": "Beauty",
+    "slug": "beauty",
+    "description": "Beauty category",
+    "created_at": "2026-11-18T12:35:42.975Z",
+    "updated_at": "2026-11-18T12:35:42.975Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 2,
+  "fields": {
+    "name": "Fragrances",
+    "slug": "fragrances",
+    "description": "Fragrances category",
+    "created_at": "2026-11-18T12:35:45.186Z",
+    "updated_at": "2026-11-18T12:35:45.186Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 3,
+  "fields": {
+    "name": "Furniture",
+    "slug": "furniture",
+    "description": "Furniture category",
+    "created_at": "2026-11-18T12:38:47.429Z",
+    "updated_at": "2026-11-18T12:38:47.429Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 4,
+  "fields": {
+    "name": "Groceries",
+    "slug": "groceries",
+    "description": "Groceries category",
+    "created_at": "2026-11-18T12:38:50.833Z",
+    "updated_at": "2026-11-18T12:38:50.833Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 5,
+  "fields": {
+    "name": "Home Decoration",
+    "slug": "home-decoration",
+    "description": "Home Decoration category",
+    "created_at": "2026-11-18T12:39:03.190Z",
+    "updated_at": "2026-11-18T12:39:03.190Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 6,
+  "fields": {
+    "name": "Kitchen Accessories",
+    "slug": "kitchen-accessories",
+    "description": "Kitchen Accessories category",
+    "created_at": "2026-11-18T12:39:05.684Z",
+    "updated_at": "2026-11-18T12:39:05.684Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 7,
+  "fields": {
+    "name": "Laptops",
+    "slug": "laptops",
+    "description": "Laptops category",
+    "created_at": "2026-11-18T12:39:19.213Z",
+    "updated_at": "2026-11-18T12:39:19.213Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 8,
+  "fields": {
+    "name": "Mens Shirts",
+    "slug": "mens-shirts",
+    "description": "Mens Shirts category",
+    "created_at": "2026-11-18T12:39:20.250Z",
+    "updated_at": "2026-11-18T12:39:20.250Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 9,
+  "fields": {
+    "name": "Mens Shoes",
+    "slug": "mens-shoes",
+    "description": "Mens Shoes category",
+    "created_at": "2026-11-18T12:39:21.751Z",
+    "updated_at": "2026-11-18T12:39:21.751Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 10,
+  "fields": {
+    "name": "Mens Watches",
+    "slug": "mens-watches",
+    "description": "Mens Watches category",
+    "created_at": "2026-11-18T12:39:22.823Z",
+    "updated_at": "2026-11-18T12:39:22.823Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 11,
+  "fields": {
+    "name": "Mobile Accessories",
+    "slug": "mobile-accessories",
+    "description": "Mobile Accessories category",
+    "created_at": "2026-11-18T12:39:24.146Z",
+    "updated_at": "2026-11-18T12:39:24.146Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 12,
+  "fields": {
+    "name": "Motorcycle",
+    "slug": "motorcycle",
+    "description": "Motorcycle category",
+    "created_at": "2026-11-18T12:39:28.233Z",
+    "updated_at": "2026-11-18T12:39:28.233Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 13,
+  "fields": {
+    "name": "Skin Care",
+    "slug": "skin-care",
+    "description": "Skin Care category",
+    "created_at": "2026-11-18T12:39:29.291Z",
+    "updated_at": "2026-11-18T12:39:29.291Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 14,
+  "fields": {
+    "name": "Smartphones",
+    "slug": "smartphones",
+    "description": "Smartphones category",
+    "created_at": "2026-11-18T12:39:29.915Z",
+    "updated_at": "2026-11-18T12:39:29.915Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 15,
+  "fields": {
+    "name": "Sports Accessories",
+    "slug": "sports-accessories",
+    "description": "Sports Accessories category",
+    "created_at": "2026-11-18T12:39:34.169Z",
+    "updated_at": "2026-11-18T12:39:34.169Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 16,
+  "fields": {
+    "name": "Sunglasses",
+    "slug": "sunglasses",
+    "description": "Sunglasses category",
+    "created_at": "2026-11-18T12:39:38.485Z",
+    "updated_at": "2026-11-18T12:39:38.485Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 17,
+  "fields": {
+    "name": "Tablets",
+    "slug": "tablets",
+    "description": "Tablets category",
+    "created_at": "2026-11-18T12:39:39.999Z",
+    "updated_at": "2026-11-18T12:39:39.999Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 18,
+  "fields": {
+    "name": "Tops",
+    "slug": "tops",
+    "description": "Tops category",
+    "created_at": "2026-11-18T12:39:41.231Z",
+    "updated_at": "2026-11-18T12:39:41.231Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 19,
+  "fields": {
+    "name": "Vehicle",
+    "slug": "vehicle",
+    "description": "Vehicle category",
+    "created_at": "2026-11-18T12:39:42.405Z",
+    "updated_at": "2026-11-18T12:39:42.405Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 20,
+  "fields": {
+    "name": "Womens Bags",
+    "slug": "womens-bags",
+    "description": "Womens Bags category",
+    "created_at": "2026-11-18T12:39:44.226Z",
+    "updated_at": "2026-11-18T12:39:44.226Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 21,
+  "fields": {
+    "name": "Womens Dresses",
+    "slug": "womens-dresses",
+    "description": "Womens Dresses category",
+    "created_at": "2026-11-18T12:39:45.366Z",
+    "updated_at": "2026-11-18T12:39:45.366Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 22,
+  "fields": {
+    "name": "Womens Jewellery",
+    "slug": "womens-jewellery",
+    "description": "Womens Jewellery category",
+    "created_at": "2026-11-18T12:39:46.583Z",
+    "updated_at": "2026-11-18T12:39:46.583Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 23,
+  "fields": {
+    "name": "Womens Shoes",
+    "slug": "womens-shoes",
+    "description": "Womens Shoes category",
+    "created_at": "2026-11-18T12:39:47.236Z",
+    "updated_at": "2026-11-18T12:39:47.236Z"
+  }
+},
+{
+  "model": "categories.category",
+  "pk": 24,
+  "fields": {
+    "name": "Womens Watches",
+    "slug": "womens-watches",
+    "description": "Womens Watches category",
+    "created_at": "2026-11-18T12:39:48.297Z",
+    "updated_at": "2026-11-18T12:39:48.297Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 1,
+  "fields": {
+    "external_id": 1,
+    "name": "Essence Mascara Lash Princess",
+    "slug": "essence-mascara-lash-princess-1",
+    "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+    "price": "9.99",
+    "brand": "Essence",
+    "stock": 99,
+    "category": 1,
+    "is_active": true,
+    "created_at": "2026-11-18T12:35:42.984Z",
+    "updated_at": "2026-11-18T12:38:47.365Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 2,
+  "fields": {
+    "external_id": 2,
+    "name": "Eyeshadow Palette with Mirror",
+    "slug": "eyeshadow-palette-with-mirror-2",
+    "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+    "price": "19.99",
+    "brand": "Glamour Beauty",
+    "stock": 34,
+    "category": 1,
+    "is_active": true,
+    "created_at": "2026-11-18T12:35:43.469Z",
+    "updated_at": "2026-11-18T12:38:47.374Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 3,
+  "fields": {
+    "external_id": 3,
+    "name": "Powder Canister",
+    "slug": "powder-canister-3",
+    "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+    "price": "14.99",
+    "brand": "Velvet Touch",
+    "stock": 89,
+    "category": 1,
+    "is_active": true,
+    "created_at": "2026-11-18T12:35:43.761Z",
+    "updated_at": "2026-11-18T12:38:47.381Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 4,
+  "fields": {
+    "external_id": 4,
+    "name": "Red Lipstick",
+    "slug": "red-lipstick-4",
+    "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+    "price": "12.99",
+    "brand": "Chic Cosmetics",
+    "stock": 91,
+    "category": 1,
+    "is_active": true,
+    "created_at": "2026-11-18T12:35:44.268Z",
+    "updated_at": "2026-11-18T12:38:47.388Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 5,
+  "fields": {
+    "external_id": 5,
+    "name": "Red Nail Polish",
+    "slug": "red-nail-polish-5",
+    "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+    "price": "8.99",
+    "brand": "Nail Couture",
+    "stock": 79,
+    "category": 1,
+    "is_active": true,
+    "created_at": "2026-11-18T12:35:44.576Z",
+    "updated_at": "2026-11-18T12:38:47.394Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 6,
+  "fields": {
+    "external_id": 6,
+    "name": "Calvin Klein CK One",
+    "slug": "calvin-klein-ck-one-6",
+    "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+    "price": "49.99",
+    "brand": "Calvin Klein",
+    "stock": 29,
+    "category": 2,
+    "is_active": true,
+    "created_at": "2026-11-18T12:35:45.191Z",
+    "updated_at": "2026-11-18T12:38:47.401Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 7,
+  "fields": {
+    "external_id": 7,
+    "name": "Chanel Coco Noir Eau De",
+    "slug": "chanel-coco-noir-eau-de-7",
+    "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+    "price": "129.99",
+    "brand": "Chanel",
+    "stock": 58,
+    "category": 2,
+    "is_active": true,
+    "created_at": "2026-11-18T12:35:45.477Z",
+    "updated_at": "2026-11-18T12:38:47.407Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 8,
+  "fields": {
+    "external_id": 8,
+    "name": "Dior J'adore",
+    "slug": "dior-jadore-8",
+    "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+    "price": "89.99",
+    "brand": "Dior",
+    "stock": 98,
+    "category": 2,
+    "is_active": true,
+    "created_at": "2026-11-18T12:35:45.697Z",
+    "updated_at": "2026-11-18T12:38:47.413Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 9,
+  "fields": {
+    "external_id": 9,
+    "name": "Dolce Shine Eau de",
+    "slug": "dolce-shine-eau-de-9",
+    "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+    "price": "69.99",
+    "brand": "Dolce & Gabbana",
+    "stock": 4,
+    "category": 2,
+    "is_active": true,
+    "created_at": "2026-11-18T12:35:45.934Z",
+    "updated_at": "2026-11-18T12:38:47.419Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 10,
+  "fields": {
+    "external_id": 10,
+    "name": "Gucci Bloom Eau de",
+    "slug": "gucci-bloom-eau-de-10",
+    "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+    "price": "79.99",
+    "brand": "Gucci",
+    "stock": 91,
+    "category": 2,
+    "is_active": true,
+    "created_at": "2026-11-18T12:35:46.245Z",
+    "updated_at": "2026-11-18T12:38:47.424Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 11,
+  "fields": {
+    "external_id": 11,
+    "name": "Annibale Colombo Bed",
+    "slug": "annibale-colombo-bed-11",
+    "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+    "price": "1899.99",
+    "brand": "Annibale Colombo",
+    "stock": 88,
+    "category": 3,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:47.433Z",
+    "updated_at": "2026-11-18T12:38:47.433Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 12,
+  "fields": {
+    "external_id": 12,
+    "name": "Annibale Colombo Sofa",
+    "slug": "annibale-colombo-sofa-12",
+    "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+    "price": "2499.99",
+    "brand": "Annibale Colombo",
+    "stock": 60,
+    "category": 3,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:48.031Z",
+    "updated_at": "2026-11-18T12:38:48.031Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 13,
+  "fields": {
+    "external_id": 13,
+    "name": "Bedside Table African Cherry",
+    "slug": "bedside-table-african-cherry-13",
+    "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+    "price": "299.99",
+    "brand": "Furniture Co.",
+    "stock": 64,
+    "category": 3,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:48.926Z",
+    "updated_at": "2026-11-18T12:38:48.926Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 14,
+  "fields": {
+    "external_id": 14,
+    "name": "Knoll Saarinen Executive Conference Chair",
+    "slug": "knoll-saarinen-executive-conference-chair-14",
+    "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+    "price": "499.99",
+    "brand": "Knoll",
+    "stock": 26,
+    "category": 3,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:49.708Z",
+    "updated_at": "2026-11-18T12:38:49.708Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 15,
+  "fields": {
+    "external_id": 15,
+    "name": "Wooden Bathroom Sink With Mirror",
+    "slug": "wooden-bathroom-sink-with-mirror-15",
+    "description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+    "price": "799.99",
+    "brand": "Bath Trends",
+    "stock": 7,
+    "category": 3,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:50.589Z",
+    "updated_at": "2026-11-18T12:38:50.589Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 16,
+  "fields": {
+    "external_id": 16,
+    "name": "Apple",
+    "slug": "apple-16",
+    "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+    "price": "1.99",
+    "brand": "",
+    "stock": 8,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:50.837Z",
+    "updated_at": "2026-11-18T12:38:50.837Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 17,
+  "fields": {
+    "external_id": 17,
+    "name": "Beef Steak",
+    "slug": "beef-steak-17",
+    "description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
+    "price": "12.99",
+    "brand": "",
+    "stock": 86,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:51.086Z",
+    "updated_at": "2026-11-18T12:38:51.086Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 18,
+  "fields": {
+    "external_id": 18,
+    "name": "Cat Food",
+    "slug": "cat-food-18",
+    "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+    "price": "8.99",
+    "brand": "",
+    "stock": 46,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:51.599Z",
+    "updated_at": "2026-11-18T12:38:51.599Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 19,
+  "fields": {
+    "external_id": 19,
+    "name": "Chicken Meat",
+    "slug": "chicken-meat-19",
+    "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+    "price": "9.99",
+    "brand": "",
+    "stock": 97,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:52.072Z",
+    "updated_at": "2026-11-18T12:38:52.072Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 20,
+  "fields": {
+    "external_id": 20,
+    "name": "Cooking Oil",
+    "slug": "cooking-oil-20",
+    "description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
+    "price": "4.99",
+    "brand": "",
+    "stock": 10,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:52.471Z",
+    "updated_at": "2026-11-18T12:38:52.471Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 21,
+  "fields": {
+    "external_id": 21,
+    "name": "Cucumber",
+    "slug": "cucumber-21",
+    "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+    "price": "1.49",
+    "brand": "",
+    "stock": 84,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:52.859Z",
+    "updated_at": "2026-11-18T12:38:52.859Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 22,
+  "fields": {
+    "external_id": 22,
+    "name": "Dog Food",
+    "slug": "dog-food-22",
+    "description": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+    "price": "10.99",
+    "brand": "",
+    "stock": 71,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:53.289Z",
+    "updated_at": "2026-11-18T12:38:53.289Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 23,
+  "fields": {
+    "external_id": 23,
+    "name": "Eggs",
+    "slug": "eggs-23",
+    "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+    "price": "2.99",
+    "brand": "",
+    "stock": 9,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:53.702Z",
+    "updated_at": "2026-11-18T12:38:53.702Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 24,
+  "fields": {
+    "external_id": 24,
+    "name": "Fish Steak",
+    "slug": "fish-steak-24",
+    "description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+    "price": "14.99",
+    "brand": "",
+    "stock": 74,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:54.139Z",
+    "updated_at": "2026-11-18T12:38:54.139Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 25,
+  "fields": {
+    "external_id": 25,
+    "name": "Green Bell Pepper",
+    "slug": "green-bell-pepper-25",
+    "description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+    "price": "1.29",
+    "brand": "",
+    "stock": 33,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:54.776Z",
+    "updated_at": "2026-11-18T12:38:54.776Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 26,
+  "fields": {
+    "external_id": 26,
+    "name": "Green Chili Pepper",
+    "slug": "green-chili-pepper-26",
+    "description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+    "price": "0.99",
+    "brand": "",
+    "stock": 3,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:55.268Z",
+    "updated_at": "2026-11-18T12:38:55.268Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 27,
+  "fields": {
+    "external_id": 27,
+    "name": "Honey Jar",
+    "slug": "honey-jar-27",
+    "description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+    "price": "6.99",
+    "brand": "",
+    "stock": 34,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:56.081Z",
+    "updated_at": "2026-11-18T12:38:56.081Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 28,
+  "fields": {
+    "external_id": 28,
+    "name": "Ice Cream",
+    "slug": "ice-cream-28",
+    "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+    "price": "5.49",
+    "brand": "",
+    "stock": 27,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:56.448Z",
+    "updated_at": "2026-11-18T12:38:56.448Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 29,
+  "fields": {
+    "external_id": 29,
+    "name": "Juice",
+    "slug": "juice-29",
+    "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+    "price": "3.99",
+    "brand": "",
+    "stock": 50,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:56.664Z",
+    "updated_at": "2026-11-18T12:38:56.664Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 30,
+  "fields": {
+    "external_id": 30,
+    "name": "Kiwi",
+    "slug": "kiwi-30",
+    "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+    "price": "2.49",
+    "brand": "",
+    "stock": 99,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:56.878Z",
+    "updated_at": "2026-11-18T12:38:56.878Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 31,
+  "fields": {
+    "external_id": 31,
+    "name": "Lemon",
+    "slug": "lemon-31",
+    "description": "Zesty and tangy lemons, versatile for cooking, baking, or making refreshing beverages.",
+    "price": "0.79",
+    "brand": "",
+    "stock": 31,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:57.287Z",
+    "updated_at": "2026-11-18T12:38:57.287Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 32,
+  "fields": {
+    "external_id": 32,
+    "name": "Milk",
+    "slug": "milk-32",
+    "description": "Fresh and nutritious milk, a staple for various recipes and daily consumption.",
+    "price": "3.49",
+    "brand": "",
+    "stock": 27,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:57.656Z",
+    "updated_at": "2026-11-18T12:38:57.656Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 33,
+  "fields": {
+    "external_id": 33,
+    "name": "Mulberry",
+    "slug": "mulberry-33",
+    "description": "Sweet and juicy mulberries, perfect for snacking or adding to desserts and cereals.",
+    "price": "4.99",
+    "brand": "",
+    "stock": 99,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:58.607Z",
+    "updated_at": "2026-11-18T12:38:58.607Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 34,
+  "fields": {
+    "external_id": 34,
+    "name": "Nescafe Coffee",
+    "slug": "nescafe-coffee-34",
+    "description": "Quality coffee from Nescafe, available in various blends for a rich and satisfying cup.",
+    "price": "7.99",
+    "brand": "",
+    "stock": 57,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:59.564Z",
+    "updated_at": "2026-11-18T12:38:59.564Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 35,
+  "fields": {
+    "external_id": 35,
+    "name": "Potatoes",
+    "slug": "potatoes-35",
+    "description": "Versatile and starchy potatoes, great for roasting, mashing, or as a side dish.",
+    "price": "2.29",
+    "brand": "",
+    "stock": 13,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:38:59.985Z",
+    "updated_at": "2026-11-18T12:38:59.985Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 36,
+  "fields": {
+    "external_id": 36,
+    "name": "Protein Powder",
+    "slug": "protein-powder-36",
+    "description": "Nutrient-packed protein powder, ideal for supplementing your diet with essential proteins.",
+    "price": "19.99",
+    "brand": "",
+    "stock": 80,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:00.374Z",
+    "updated_at": "2026-11-18T12:39:00.374Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 37,
+  "fields": {
+    "external_id": 37,
+    "name": "Red Onions",
+    "slug": "red-onions-37",
+    "description": "Flavorful and aromatic red onions, perfect for adding depth to your savory dishes.",
+    "price": "1.99",
+    "brand": "",
+    "stock": 82,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:01.240Z",
+    "updated_at": "2026-11-18T12:39:01.240Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 38,
+  "fields": {
+    "external_id": 38,
+    "name": "Rice",
+    "slug": "rice-38",
+    "description": "High-quality rice, a staple for various cuisines and a versatile base for many dishes.",
+    "price": "5.99",
+    "brand": "",
+    "stock": 59,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:02.184Z",
+    "updated_at": "2026-11-18T12:39:02.184Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 39,
+  "fields": {
+    "external_id": 39,
+    "name": "Soft Drinks",
+    "slug": "soft-drinks-39",
+    "description": "Assorted soft drinks in various flavors, perfect for refreshing beverages.",
+    "price": "1.99",
+    "brand": "",
+    "stock": 53,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:02.394Z",
+    "updated_at": "2026-11-18T12:39:02.394Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 40,
+  "fields": {
+    "external_id": 40,
+    "name": "Strawberry",
+    "slug": "strawberry-40",
+    "description": "Sweet and succulent strawberries, great for snacking, desserts, or blending into smoothies.",
+    "price": "3.99",
+    "brand": "",
+    "stock": 46,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:02.563Z",
+    "updated_at": "2026-11-18T12:39:02.563Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 41,
+  "fields": {
+    "external_id": 41,
+    "name": "Tissue Paper Box",
+    "slug": "tissue-paper-box-41",
+    "description": "Convenient tissue paper box for everyday use, providing soft and absorbent tissues.",
+    "price": "2.49",
+    "brand": "",
+    "stock": 86,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:02.777Z",
+    "updated_at": "2026-11-18T12:39:02.777Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 42,
+  "fields": {
+    "external_id": 42,
+    "name": "Water",
+    "slug": "water-42",
+    "description": "Pure and refreshing bottled water, essential for staying hydrated throughout the day.",
+    "price": "0.99",
+    "brand": "",
+    "stock": 53,
+    "category": 4,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:02.992Z",
+    "updated_at": "2026-11-18T12:39:02.992Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 43,
+  "fields": {
+    "external_id": 43,
+    "name": "Decoration Swing",
+    "slug": "decoration-swing-43",
+    "description": "The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room.",
+    "price": "59.99",
+    "brand": "",
+    "stock": 47,
+    "category": 5,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:03.194Z",
+    "updated_at": "2026-11-18T12:39:03.194Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 44,
+  "fields": {
+    "external_id": 44,
+    "name": "Family Tree Photo Frame",
+    "slug": "family-tree-photo-frame-44",
+    "description": "The Family Tree Photo Frame is a sentimental and stylish way to display your cherished family memories. With multiple photo slots, it tells the story of your loved ones.",
+    "price": "29.99",
+    "brand": "",
+    "stock": 77,
+    "category": 5,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:03.424Z",
+    "updated_at": "2026-11-18T12:39:03.424Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 45,
+  "fields": {
+    "external_id": 45,
+    "name": "House Showpiece Plant",
+    "slug": "house-showpiece-plant-45",
+    "description": "The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space.",
+    "price": "39.99",
+    "brand": "",
+    "stock": 28,
+    "category": 5,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:04.026Z",
+    "updated_at": "2026-11-18T12:39:04.026Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 46,
+  "fields": {
+    "external_id": 46,
+    "name": "Plant Pot",
+    "slug": "plant-pot-46",
+    "description": "The Plant Pot is a stylish container for your favorite plants. With a sleek design, it complements your indoor or outdoor garden, adding a modern touch to your plant display.",
+    "price": "14.99",
+    "brand": "",
+    "stock": 59,
+    "category": 5,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:04.399Z",
+    "updated_at": "2026-11-18T12:39:04.399Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 47,
+  "fields": {
+    "external_id": 47,
+    "name": "Table Lamp",
+    "slug": "table-lamp-47",
+    "description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
+    "price": "49.99",
+    "brand": "",
+    "stock": 9,
+    "category": 5,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:05.272Z",
+    "updated_at": "2026-11-18T12:39:05.272Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 48,
+  "fields": {
+    "external_id": 48,
+    "name": "Bamboo Spatula",
+    "slug": "bamboo-spatula-48",
+    "description": "The Bamboo Spatula is a versatile kitchen tool made from eco-friendly bamboo. Ideal for flipping, stirring, and serving various dishes.",
+    "price": "7.99",
+    "brand": "",
+    "stock": 37,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:05.688Z",
+    "updated_at": "2026-11-18T12:39:05.688Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 49,
+  "fields": {
+    "external_id": 49,
+    "name": "Black Aluminium Cup",
+    "slug": "black-aluminium-cup-49",
+    "description": "The Black Aluminium Cup is a stylish and durable cup suitable for both hot and cold beverages. Its sleek black design adds a modern touch to your drinkware collection.",
+    "price": "5.99",
+    "brand": "",
+    "stock": 75,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:06.097Z",
+    "updated_at": "2026-11-18T12:39:06.097Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 50,
+  "fields": {
+    "external_id": 50,
+    "name": "Black Whisk",
+    "slug": "black-whisk-50",
+    "description": "The Black Whisk is a kitchen essential for whisking and beating ingredients. Its ergonomic handle and sleek design make it a practical and stylish tool.",
+    "price": "9.99",
+    "brand": "",
+    "stock": 73,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:06.653Z",
+    "updated_at": "2026-11-18T12:39:06.653Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 51,
+  "fields": {
+    "external_id": 51,
+    "name": "Boxed Blender",
+    "slug": "boxed-blender-51",
+    "description": "The Boxed Blender is a powerful and compact blender perfect for smoothies, shakes, and more. Its convenient design and multiple functions make it a versatile kitchen appliance.",
+    "price": "39.99",
+    "brand": "",
+    "stock": 9,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:07.169Z",
+    "updated_at": "2026-11-18T12:39:07.169Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 52,
+  "fields": {
+    "external_id": 52,
+    "name": "Carbon Steel Wok",
+    "slug": "carbon-steel-wok-52",
+    "description": "The Carbon Steel Wok is a versatile cooking pan suitable for stir-frying, sautéing, and deep frying. Its sturdy construction ensures even heat distribution for delicious meals.",
+    "price": "29.99",
+    "brand": "",
+    "stock": 40,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:07.788Z",
+    "updated_at": "2026-11-18T12:39:07.788Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 53,
+  "fields": {
+    "external_id": 53,
+    "name": "Chopping Board",
+    "slug": "chopping-board-53",
+    "description": "The Chopping Board is an essential kitchen accessory for food preparation. Made from durable material, it provides a safe and hygienic surface for cutting and chopping.",
+    "price": "12.99",
+    "brand": "",
+    "stock": 14,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:09.161Z",
+    "updated_at": "2026-11-18T12:39:09.161Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 54,
+  "fields": {
+    "external_id": 54,
+    "name": "Citrus Squeezer Yellow",
+    "slug": "citrus-squeezer-yellow-54",
+    "description": "The Citrus Squeezer in Yellow is a handy tool for extracting juice from citrus fruits. Its vibrant color adds a cheerful touch to your kitchen gadgets.",
+    "price": "8.99",
+    "brand": "",
+    "stock": 22,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:09.511Z",
+    "updated_at": "2026-11-18T12:39:09.511Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 55,
+  "fields": {
+    "external_id": 55,
+    "name": "Egg Slicer",
+    "slug": "egg-slicer-55",
+    "description": "The Egg Slicer is a convenient tool for slicing boiled eggs evenly. It's perfect for salads, sandwiches, and other dishes where sliced eggs are desired.",
+    "price": "6.99",
+    "brand": "",
+    "stock": 40,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:09.733Z",
+    "updated_at": "2026-11-18T12:39:09.733Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 56,
+  "fields": {
+    "external_id": 56,
+    "name": "Electric Stove",
+    "slug": "electric-stove-56",
+    "description": "The Electric Stove provides a portable and efficient cooking solution. Ideal for small kitchens or as an additional cooking surface for various culinary needs.",
+    "price": "49.99",
+    "brand": "",
+    "stock": 21,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:09.937Z",
+    "updated_at": "2026-11-18T12:39:09.937Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 57,
+  "fields": {
+    "external_id": 57,
+    "name": "Fine Mesh Strainer",
+    "slug": "fine-mesh-strainer-57",
+    "description": "The Fine Mesh Strainer is a versatile tool for straining liquids and sifting dry ingredients. Its fine mesh ensures efficient filtering for smooth cooking and baking.",
+    "price": "9.99",
+    "brand": "",
+    "stock": 85,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:10.161Z",
+    "updated_at": "2026-11-18T12:39:10.161Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 58,
+  "fields": {
+    "external_id": 58,
+    "name": "Fork",
+    "slug": "fork-58",
+    "description": "The Fork is a classic utensil for various dining and serving purposes. Its durable and ergonomic design makes it a reliable choice for everyday use.",
+    "price": "3.99",
+    "brand": "",
+    "stock": 7,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:10.869Z",
+    "updated_at": "2026-11-18T12:39:10.869Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 59,
+  "fields": {
+    "external_id": 59,
+    "name": "Glass",
+    "slug": "glass-59",
+    "description": "The Glass is a versatile and elegant drinking vessel suitable for a variety of beverages. Its clear design allows you to enjoy the colors and textures of your drinks.",
+    "price": "4.99",
+    "brand": "",
+    "stock": 46,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:11.243Z",
+    "updated_at": "2026-11-18T12:39:11.243Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 60,
+  "fields": {
+    "external_id": 60,
+    "name": "Grater Black",
+    "slug": "grater-black-60",
+    "description": "The Grater in Black is a handy kitchen tool for grating cheese, vegetables, and more. Its sleek design and sharp blades make food preparation efficient and easy.",
+    "price": "10.99",
+    "brand": "",
+    "stock": 84,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:11.668Z",
+    "updated_at": "2026-11-18T12:39:11.668Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 61,
+  "fields": {
+    "external_id": 61,
+    "name": "Hand Blender",
+    "slug": "hand-blender-61",
+    "description": "The Hand Blender is a versatile kitchen appliance for blending, pureeing, and mixing. Its compact design and powerful motor make it a convenient tool for various recipes.",
+    "price": "34.99",
+    "brand": "",
+    "stock": 84,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:12.253Z",
+    "updated_at": "2026-11-18T12:39:12.253Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 62,
+  "fields": {
+    "external_id": 62,
+    "name": "Ice Cube Tray",
+    "slug": "ice-cube-tray-62",
+    "description": "The Ice Cube Tray is a practical accessory for making ice cubes in various shapes. Perfect for keeping your drinks cool and adding a fun element to your beverages.",
+    "price": "5.99",
+    "brand": "",
+    "stock": 13,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:12.795Z",
+    "updated_at": "2026-11-18T12:39:12.795Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 63,
+  "fields": {
+    "external_id": 63,
+    "name": "Kitchen Sieve",
+    "slug": "kitchen-sieve-63",
+    "description": "The Kitchen Sieve is a versatile tool for sifting and straining dry and wet ingredients. Its fine mesh design ensures smooth results in your cooking and baking.",
+    "price": "7.99",
+    "brand": "",
+    "stock": 68,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:13.362Z",
+    "updated_at": "2026-11-18T12:39:13.362Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 64,
+  "fields": {
+    "external_id": 64,
+    "name": "Knife",
+    "slug": "knife-64",
+    "description": "The Knife is an essential kitchen tool for chopping, slicing, and dicing. Its sharp blade and ergonomic handle make it a reliable choice for food preparation.",
+    "price": "14.99",
+    "brand": "",
+    "stock": 7,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:13.863Z",
+    "updated_at": "2026-11-18T12:39:13.863Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 65,
+  "fields": {
+    "external_id": 65,
+    "name": "Lunch Box",
+    "slug": "lunch-box-65",
+    "description": "The Lunch Box is a convenient and portable container for packing and carrying your meals. With compartments for different foods, it's perfect for on-the-go dining.",
+    "price": "12.99",
+    "brand": "",
+    "stock": 94,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:14.248Z",
+    "updated_at": "2026-11-18T12:39:14.248Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 66,
+  "fields": {
+    "external_id": 66,
+    "name": "Microwave Oven",
+    "slug": "microwave-oven-66",
+    "description": "The Microwave Oven is a versatile kitchen appliance for quick and efficient cooking, reheating, and defrosting. Its compact size makes it suitable for various kitchen setups.",
+    "price": "89.99",
+    "brand": "",
+    "stock": 59,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:15.824Z",
+    "updated_at": "2026-11-18T12:39:15.824Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 67,
+  "fields": {
+    "external_id": 67,
+    "name": "Mug Tree Stand",
+    "slug": "mug-tree-stand-67",
+    "description": "The Mug Tree Stand is a stylish and space-saving solution for organizing your mugs. Keep your favorite mugs easily accessible and neatly displayed in your kitchen.",
+    "price": "15.99",
+    "brand": "",
+    "stock": 88,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:16.020Z",
+    "updated_at": "2026-11-18T12:39:16.020Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 68,
+  "fields": {
+    "external_id": 68,
+    "name": "Pan",
+    "slug": "pan-68",
+    "description": "The Pan is a versatile and essential cookware item for frying, sautéing, and cooking various dishes. Its non-stick coating ensures easy food release and cleanup.",
+    "price": "24.99",
+    "brand": "",
+    "stock": 90,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:16.289Z",
+    "updated_at": "2026-11-18T12:39:16.289Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 69,
+  "fields": {
+    "external_id": 69,
+    "name": "Plate",
+    "slug": "plate-69",
+    "description": "The Plate is a classic and essential dishware item for serving meals. Its durable and stylish design makes it suitable for everyday use or special occasions.",
+    "price": "3.99",
+    "brand": "",
+    "stock": 66,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:16.487Z",
+    "updated_at": "2026-11-18T12:39:16.488Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 70,
+  "fields": {
+    "external_id": 70,
+    "name": "Red Tongs",
+    "slug": "red-tongs-70",
+    "description": "The Red Tongs are versatile kitchen tongs suitable for various cooking and serving tasks. Their vibrant color adds a pop of excitement to your kitchen utensils.",
+    "price": "6.99",
+    "brand": "",
+    "stock": 82,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:16.762Z",
+    "updated_at": "2026-11-18T12:39:16.762Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 71,
+  "fields": {
+    "external_id": 71,
+    "name": "Silver Pot With Glass Cap",
+    "slug": "silver-pot-with-glass-cap-71",
+    "description": "The Silver Pot with Glass Cap is a stylish and functional cookware item for boiling, simmering, and preparing delicious meals. Its glass cap allows you to monitor cooking progress.",
+    "price": "39.99",
+    "brand": "",
+    "stock": 40,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:17.277Z",
+    "updated_at": "2026-11-18T12:39:17.277Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 72,
+  "fields": {
+    "external_id": 72,
+    "name": "Slotted Turner",
+    "slug": "slotted-turner-72",
+    "description": "The Slotted Turner is a kitchen utensil designed for flipping and turning food items. Its slotted design allows excess liquid to drain, making it ideal for frying and sautéing.",
+    "price": "8.99",
+    "brand": "",
+    "stock": 88,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:17.502Z",
+    "updated_at": "2026-11-18T12:39:17.502Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 73,
+  "fields": {
+    "external_id": 73,
+    "name": "Spice Rack",
+    "slug": "spice-rack-73",
+    "description": "The Spice Rack is a convenient organizer for your spices and seasonings. Keep your kitchen essentials within reach and neatly arranged with this stylish spice rack.",
+    "price": "19.99",
+    "brand": "",
+    "stock": 79,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:17.714Z",
+    "updated_at": "2026-11-18T12:39:17.714Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 74,
+  "fields": {
+    "external_id": 74,
+    "name": "Spoon",
+    "slug": "spoon-74",
+    "description": "The Spoon is a versatile kitchen utensil for stirring, serving, and tasting. Its ergonomic design and durable construction make it an essential tool for every kitchen.",
+    "price": "4.99",
+    "brand": "",
+    "stock": 59,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:17.934Z",
+    "updated_at": "2026-11-18T12:39:17.934Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 75,
+  "fields": {
+    "external_id": 75,
+    "name": "Tray",
+    "slug": "tray-75",
+    "description": "The Tray is a functional and decorative item for serving snacks, appetizers, or drinks. Its stylish design makes it a versatile accessory for entertaining guests.",
+    "price": "16.99",
+    "brand": "",
+    "stock": 71,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:18.142Z",
+    "updated_at": "2026-11-18T12:39:18.142Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 76,
+  "fields": {
+    "external_id": 76,
+    "name": "Wooden Rolling Pin",
+    "slug": "wooden-rolling-pin-76",
+    "description": "The Wooden Rolling Pin is a classic kitchen tool for rolling out dough for baking. Its smooth surface and sturdy handles make it easy to achieve uniform thickness.",
+    "price": "11.99",
+    "brand": "",
+    "stock": 80,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:18.765Z",
+    "updated_at": "2026-11-18T12:39:18.765Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 77,
+  "fields": {
+    "external_id": 77,
+    "name": "Yellow Peeler",
+    "slug": "yellow-peeler-77",
+    "description": "The Yellow Peeler is a handy tool for peeling fruits and vegetables with ease. Its bright yellow color adds a cheerful touch to your kitchen gadgets.",
+    "price": "5.99",
+    "brand": "",
+    "stock": 35,
+    "category": 6,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:18.985Z",
+    "updated_at": "2026-11-18T12:39:18.986Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 78,
+  "fields": {
+    "external_id": 78,
+    "name": "Apple MacBook Pro 14 Inch Space Grey",
+    "slug": "apple-macbook-pro-14-inch-space-grey-78",
+    "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+    "price": "1999.99",
+    "brand": "Apple",
+    "stock": 24,
+    "category": 7,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:19.218Z",
+    "updated_at": "2026-11-18T12:39:19.218Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 79,
+  "fields": {
+    "external_id": 79,
+    "name": "Asus Zenbook Pro Dual Screen Laptop",
+    "slug": "asus-zenbook-pro-dual-screen-laptop-79",
+    "description": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+    "price": "1799.99",
+    "brand": "Asus",
+    "stock": 45,
+    "category": 7,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:19.432Z",
+    "updated_at": "2026-11-18T12:39:19.432Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 80,
+  "fields": {
+    "external_id": 80,
+    "name": "Huawei Matebook X Pro",
+    "slug": "huawei-matebook-x-pro-80",
+    "description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+    "price": "1399.99",
+    "brand": "Huawei",
+    "stock": 75,
+    "category": 7,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:19.625Z",
+    "updated_at": "2026-11-18T12:39:19.625Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 81,
+  "fields": {
+    "external_id": 81,
+    "name": "Lenovo Yoga 920",
+    "slug": "lenovo-yoga-920-81",
+    "description": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+    "price": "1099.99",
+    "brand": "Lenovo",
+    "stock": 40,
+    "category": 7,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:19.797Z",
+    "updated_at": "2026-11-18T12:39:19.797Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 82,
+  "fields": {
+    "external_id": 82,
+    "name": "New DELL XPS 13 9300 Laptop",
+    "slug": "new-dell-xps-13-9300-laptop-82",
+    "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+    "price": "1499.99",
+    "brand": "Dell",
+    "stock": 74,
+    "category": 7,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:19.999Z",
+    "updated_at": "2026-11-18T12:39:19.999Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 83,
+  "fields": {
+    "external_id": 83,
+    "name": "Blue & Black Check Shirt",
+    "slug": "blue-black-check-shirt-83",
+    "description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
+    "price": "29.99",
+    "brand": "Fashion Trends",
+    "stock": 38,
+    "category": 8,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:20.254Z",
+    "updated_at": "2026-11-18T12:39:20.254Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 84,
+  "fields": {
+    "external_id": 84,
+    "name": "Gigabyte Aorus Men Tshirt",
+    "slug": "gigabyte-aorus-men-tshirt-84",
+    "description": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
+    "price": "24.99",
+    "brand": "Gigabyte",
+    "stock": 90,
+    "category": 8,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:20.892Z",
+    "updated_at": "2026-11-18T12:39:20.892Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 85,
+  "fields": {
+    "external_id": 85,
+    "name": "Man Plaid Shirt",
+    "slug": "man-plaid-shirt-85",
+    "description": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
+    "price": "34.99",
+    "brand": "Classic Wear",
+    "stock": 82,
+    "category": 8,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:21.089Z",
+    "updated_at": "2026-11-18T12:39:21.089Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 86,
+  "fields": {
+    "external_id": 86,
+    "name": "Man Short Sleeve Shirt",
+    "slug": "man-short-sleeve-shirt-86",
+    "description": "The Man Short Sleeve Shirt is a breezy and stylish option for warm days. With a comfortable fit and short sleeves, it's perfect for a laid-back yet polished look.",
+    "price": "19.99",
+    "brand": "Casual Comfort",
+    "stock": 2,
+    "category": 8,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:21.304Z",
+    "updated_at": "2026-11-18T12:39:21.304Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 87,
+  "fields": {
+    "external_id": 87,
+    "name": "Men Check Shirt",
+    "slug": "men-check-shirt-87",
+    "description": "The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
+    "price": "27.99",
+    "brand": "Urban Chic",
+    "stock": 95,
+    "category": 8,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:21.517Z",
+    "updated_at": "2026-11-18T12:39:21.517Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 88,
+  "fields": {
+    "external_id": 88,
+    "name": "Nike Air Jordan 1 Red And Black",
+    "slug": "nike-air-jordan-1-red-and-black-88",
+    "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
+    "price": "149.99",
+    "brand": "Nike",
+    "stock": 7,
+    "category": 9,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:21.755Z",
+    "updated_at": "2026-11-18T12:39:21.755Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 89,
+  "fields": {
+    "external_id": 89,
+    "name": "Nike Baseball Cleats",
+    "slug": "nike-baseball-cleats-89",
+    "description": "Nike Baseball Cleats are designed for maximum traction and performance on the baseball field. They provide stability and support for players during games and practices.",
+    "price": "79.99",
+    "brand": "Nike",
+    "stock": 12,
+    "category": 9,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:21.959Z",
+    "updated_at": "2026-11-18T12:39:21.959Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 90,
+  "fields": {
+    "external_id": 90,
+    "name": "Puma Future Rider Trainers",
+    "slug": "puma-future-rider-trainers-90",
+    "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
+    "price": "89.99",
+    "brand": "Puma",
+    "stock": 90,
+    "category": 9,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:22.178Z",
+    "updated_at": "2026-11-18T12:39:22.178Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 91,
+  "fields": {
+    "external_id": 91,
+    "name": "Sports Sneakers Off White & Red",
+    "slug": "sports-sneakers-off-white-red-91",
+    "description": "The Sports Sneakers in Off White and Red combine style and functionality, making them a fashionable choice for sports enthusiasts. The red and off-white color combination adds a bold and energetic touch.",
+    "price": "119.99",
+    "brand": "Off White",
+    "stock": 17,
+    "category": 9,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:22.381Z",
+    "updated_at": "2026-11-18T12:39:22.381Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 92,
+  "fields": {
+    "external_id": 92,
+    "name": "Sports Sneakers Off White Red",
+    "slug": "sports-sneakers-off-white-red-92",
+    "description": "Another variant of the Sports Sneakers in Off White Red, featuring a unique design. These sneakers offer style and comfort for casual occasions.",
+    "price": "109.99",
+    "brand": "Off White",
+    "stock": 62,
+    "category": 9,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:22.593Z",
+    "updated_at": "2026-11-18T12:39:22.593Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 93,
+  "fields": {
+    "external_id": 93,
+    "name": "Brown Leather Belt Watch",
+    "slug": "brown-leather-belt-watch-93",
+    "description": "The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look.",
+    "price": "89.99",
+    "brand": "Fashion Timepieces",
+    "stock": 32,
+    "category": 10,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:22.830Z",
+    "updated_at": "2026-11-18T12:39:22.830Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 94,
+  "fields": {
+    "external_id": 94,
+    "name": "Longines Master Collection",
+    "slug": "longines-master-collection-94",
+    "description": "The Longines Master Collection is an elegant and refined watch known for its precision and craftsmanship. With a timeless design, it's a symbol of luxury and sophistication.",
+    "price": "1499.99",
+    "brand": "Longines",
+    "stock": 100,
+    "category": 10,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:23.071Z",
+    "updated_at": "2026-11-18T12:39:23.071Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 95,
+  "fields": {
+    "external_id": 95,
+    "name": "Rolex Cellini Date Black Dial",
+    "slug": "rolex-cellini-date-black-dial-95",
+    "description": "The Rolex Cellini Date with Black Dial is a classic and prestigious watch. With a black dial and date complication, it exudes sophistication and is a symbol of Rolex's heritage.",
+    "price": "8999.99",
+    "brand": "Rolex",
+    "stock": 40,
+    "category": 10,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:23.287Z",
+    "updated_at": "2026-11-18T12:39:23.287Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 96,
+  "fields": {
+    "external_id": 96,
+    "name": "Rolex Cellini Moonphase",
+    "slug": "rolex-cellini-moonphase-96",
+    "description": "The Rolex Cellini Moonphase is a masterpiece of horology, featuring a moon phase complication and exquisite design. It reflects Rolex's commitment to precision and elegance.",
+    "price": "12999.99",
+    "brand": "Rolex",
+    "stock": 36,
+    "category": 10,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:23.484Z",
+    "updated_at": "2026-11-18T12:39:23.484Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 97,
+  "fields": {
+    "external_id": 97,
+    "name": "Rolex Datejust",
+    "slug": "rolex-datejust-97",
+    "description": "The Rolex Datejust is an iconic and versatile timepiece with a date window. Known for its timeless design and reliability, it's a symbol of Rolex's watchmaking excellence.",
+    "price": "10999.99",
+    "brand": "Rolex",
+    "stock": 86,
+    "category": 10,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:23.738Z",
+    "updated_at": "2026-11-18T12:39:23.738Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 98,
+  "fields": {
+    "external_id": 98,
+    "name": "Rolex Submariner Watch",
+    "slug": "rolex-submariner-watch-98",
+    "description": "The Rolex Submariner is a legendary dive watch with a rich history. Known for its durability and water resistance, it's a symbol of adventure and exploration.",
+    "price": "13999.99",
+    "brand": "Rolex",
+    "stock": 55,
+    "category": 10,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:23.950Z",
+    "updated_at": "2026-11-18T12:39:23.950Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 99,
+  "fields": {
+    "external_id": 99,
+    "name": "Amazon Echo Plus",
+    "slug": "amazon-echo-plus-99",
+    "description": "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
+    "price": "99.99",
+    "brand": "Amazon",
+    "stock": 61,
+    "category": 11,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:24.154Z",
+    "updated_at": "2026-11-18T12:39:24.154Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 100,
+  "fields": {
+    "external_id": 100,
+    "name": "Apple Airpods",
+    "slug": "apple-airpods-100",
+    "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
+    "price": "129.99",
+    "brand": "Apple",
+    "stock": 67,
+    "category": 11,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:24.372Z",
+    "updated_at": "2026-11-18T12:39:24.372Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 101,
+  "fields": {
+    "external_id": 101,
+    "name": "Apple AirPods Max Silver",
+    "slug": "apple-airpods-max-silver-101",
+    "description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style.",
+    "price": "549.99",
+    "brand": "Apple",
+    "stock": 59,
+    "category": 11,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:24.592Z",
+    "updated_at": "2026-11-18T12:39:24.592Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 102,
+  "fields": {
+    "external_id": 102,
+    "name": "Apple Airpower Wireless Charger",
+    "slug": "apple-airpower-wireless-charger-102",
+    "description": "The Apple AirPower Wireless Charger provides a convenient way to charge your compatible Apple devices wirelessly. Simply place your devices on the charging mat for effortless charging.",
+    "price": "79.99",
+    "brand": "Apple",
+    "stock": 1,
+    "category": 11,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:24.762Z",
+    "updated_at": "2026-11-18T12:39:24.762Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 103,
+  "fields": {
+    "external_id": 103,
+    "name": "Apple HomePod Mini Cosmic Grey",
+    "slug": "apple-homepod-mini-cosmic-grey-103",
+    "description": "The Apple HomePod Mini in Cosmic Grey is a compact smart speaker that delivers impressive audio and integrates seamlessly with the Apple ecosystem for a smart home experience.",
+    "price": "99.99",
+    "brand": "Apple",
+    "stock": 27,
+    "category": 11,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:25.326Z",
+    "updated_at": "2026-11-18T12:39:25.326Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 104,
+  "fields": {
+    "external_id": 104,
+    "name": "Apple iPhone Charger",
+    "slug": "apple-iphone-charger-104",
+    "description": "The Apple iPhone Charger is a high-quality charger designed for fast and efficient charging of your iPhone. Ensure your device stays powered up and ready to go.",
+    "price": "19.99",
+    "brand": "Apple",
+    "stock": 31,
+    "category": 11,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:25.608Z",
+    "updated_at": "2026-11-18T12:39:25.608Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 105,
+  "fields": {
+    "external_id": 105,
+    "name": "Apple MagSafe Battery Pack",
+    "slug": "apple-magsafe-battery-pack-105",
+    "description": "The Apple MagSafe Battery Pack is a portable and convenient way to add extra battery life to your MagSafe-compatible iPhone. Attach it magnetically for a secure connection.",
+    "price": "99.99",
+    "brand": "Apple",
+    "stock": 1,
+    "category": 11,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:25.839Z",
+    "updated_at": "2026-11-18T12:39:25.839Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 106,
+  "fields": {
+    "external_id": 106,
+    "name": "Apple Watch Series 4 Gold",
+    "slug": "apple-watch-series-4-gold-106",
+    "description": "The Apple Watch Series 4 in Gold is a stylish and advanced smartwatch with features like heart rate monitoring, fitness tracking, and a beautiful Retina display.",
+    "price": "349.99",
+    "brand": "Apple",
+    "stock": 33,
+    "category": 11,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:26.090Z",
+    "updated_at": "2026-11-18T12:39:26.090Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 107,
+  "fields": {
+    "external_id": 107,
+    "name": "Beats Flex Wireless Earphones",
+    "slug": "beats-flex-wireless-earphones-107",
+    "description": "The Beats Flex Wireless Earphones offer a comfortable and versatile audio experience. With magnetic earbuds and up to 12 hours of battery life, they are ideal for everyday use.",
+    "price": "49.99",
+    "brand": "Beats",
+    "stock": 50,
+    "category": 11,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:26.338Z",
+    "updated_at": "2026-11-18T12:39:26.338Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 108,
+  "fields": {
+    "external_id": 108,
+    "name": "iPhone 12 Silicone Case with MagSafe Plum",
+    "slug": "iphone-12-silicone-case-with-magsafe-plum-108",
+    "description": "The iPhone 12 Silicone Case with MagSafe in Plum is a stylish and protective case designed for the iPhone 12. It features MagSafe technology for easy attachment of accessories.",
+    "price": "29.99",
+    "brand": "Apple",
+    "stock": 69,
+    "category": 11,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:26.577Z",
+    "updated_at": "2026-11-18T12:39:26.577Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 109,
+  "fields": {
+    "external_id": 109,
+    "name": "Monopod",
+    "slug": "monopod-109",
+    "description": "The Monopod is a versatile camera accessory for stable and adjustable shooting. Perfect for capturing selfies, group photos, and videos with ease.",
+    "price": "19.99",
+    "brand": "TechGear",
+    "stock": 48,
+    "category": 11,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:26.861Z",
+    "updated_at": "2026-11-18T12:39:26.861Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 110,
+  "fields": {
+    "external_id": 110,
+    "name": "Selfie Lamp with iPhone",
+    "slug": "selfie-lamp-with-iphone-110",
+    "description": "The Selfie Lamp with iPhone is a portable and adjustable LED light designed to enhance your selfies and video calls. Attach it to your iPhone for well-lit photos.",
+    "price": "14.99",
+    "brand": "GadgetMaster",
+    "stock": 58,
+    "category": 11,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:27.551Z",
+    "updated_at": "2026-11-18T12:39:27.551Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 111,
+  "fields": {
+    "external_id": 111,
+    "name": "Selfie Stick Monopod",
+    "slug": "selfie-stick-monopod-111",
+    "description": "The Selfie Stick Monopod is a extendable and foldable device for capturing the perfect selfie or group photo. Compatible with smartphones and cameras.",
+    "price": "12.99",
+    "brand": "SnapTech",
+    "stock": 11,
+    "category": 11,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:27.762Z",
+    "updated_at": "2026-11-18T12:39:27.762Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 112,
+  "fields": {
+    "external_id": 112,
+    "name": "TV Studio Camera Pedestal",
+    "slug": "tv-studio-camera-pedestal-112",
+    "description": "The TV Studio Camera Pedestal is a professional-grade camera support system for smooth and precise camera movements in a studio setting. Ideal for broadcast and production.",
+    "price": "499.99",
+    "brand": "ProVision",
+    "stock": 15,
+    "category": 11,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:27.985Z",
+    "updated_at": "2026-11-18T12:39:27.985Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 113,
+  "fields": {
+    "external_id": 113,
+    "name": "Generic Motorcycle",
+    "slug": "generic-motorcycle-113",
+    "description": "The Generic Motorcycle is a versatile and reliable bike suitable for various riding preferences. With a balanced design, it provides a comfortable and efficient riding experience.",
+    "price": "3999.99",
+    "brand": "Generic Motors",
+    "stock": 34,
+    "category": 12,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:28.238Z",
+    "updated_at": "2026-11-18T12:39:28.238Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 114,
+  "fields": {
+    "external_id": 114,
+    "name": "Kawasaki Z800",
+    "slug": "kawasaki-z800-114",
+    "description": "The Kawasaki Z800 is a powerful and agile sportbike known for its striking design and performance. It's equipped with advanced features, making it a favorite among motorcycle enthusiasts.",
+    "price": "8999.99",
+    "brand": "Kawasaki",
+    "stock": 52,
+    "category": 12,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:28.474Z",
+    "updated_at": "2026-11-18T12:39:28.474Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 115,
+  "fields": {
+    "external_id": 115,
+    "name": "MotoGP CI.H1",
+    "slug": "motogp-cih1-115",
+    "description": "The MotoGP CI.H1 is a high-performance motorcycle inspired by MotoGP racing technology. It offers cutting-edge features and precision engineering for an exhilarating riding experience.",
+    "price": "14999.99",
+    "brand": "MotoGP",
+    "stock": 10,
+    "category": 12,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:28.700Z",
+    "updated_at": "2026-11-18T12:39:28.700Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 116,
+  "fields": {
+    "external_id": 116,
+    "name": "Scooter Motorcycle",
+    "slug": "scooter-motorcycle-116",
+    "description": "The Scooter Motorcycle is a practical and fuel-efficient bike ideal for urban commuting. It features a step-through design and user-friendly controls for easy maneuverability.",
+    "price": "2999.99",
+    "brand": "ScootMaster",
+    "stock": 84,
+    "category": 12,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:28.899Z",
+    "updated_at": "2026-11-18T12:39:28.899Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 117,
+  "fields": {
+    "external_id": 117,
+    "name": "Sportbike Motorcycle",
+    "slug": "sportbike-motorcycle-117",
+    "description": "The Sportbike Motorcycle is designed for speed and agility, with a sleek and aerodynamic profile. It's suitable for riders looking for a dynamic and thrilling riding experience.",
+    "price": "7499.99",
+    "brand": "SpeedMaster",
+    "stock": 0,
+    "category": 12,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:29.127Z",
+    "updated_at": "2026-11-18T12:39:29.127Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 118,
+  "fields": {
+    "external_id": 118,
+    "name": "Attitude Super Leaves Hand Soap",
+    "slug": "attitude-super-leaves-hand-soap-118",
+    "description": "Attitude Super Leaves Hand Soap is a natural and nourishing hand soap enriched with the goodness of super leaves. It cleanses and moisturizes your hands, leaving them feeling fresh and soft.",
+    "price": "8.99",
+    "brand": "Attitude",
+    "stock": 94,
+    "category": 13,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:29.295Z",
+    "updated_at": "2026-11-18T12:39:29.295Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 119,
+  "fields": {
+    "external_id": 119,
+    "name": "Olay Ultra Moisture Shea Butter Body Wash",
+    "slug": "olay-ultra-moisture-shea-butter-body-wash-119",
+    "description": "Olay Ultra Moisture Shea Butter Body Wash is a luxurious body wash that hydrates and nourishes your skin with the moisturizing power of shea butter. Enjoy a rich lather and silky-smooth skin.",
+    "price": "12.99",
+    "brand": "Olay",
+    "stock": 34,
+    "category": 13,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:29.502Z",
+    "updated_at": "2026-11-18T12:39:29.502Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 120,
+  "fields": {
+    "external_id": 120,
+    "name": "Vaseline Men Body and Face Lotion",
+    "slug": "vaseline-men-body-and-face-lotion-120",
+    "description": "Vaseline Men Body and Face Lotion is a specially formulated lotion designed to provide long-lasting moisture to men's skin. It absorbs quickly and helps keep the skin hydrated and healthy.",
+    "price": "9.99",
+    "brand": "Vaseline",
+    "stock": 95,
+    "category": 13,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:29.716Z",
+    "updated_at": "2026-11-18T12:39:29.716Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 121,
+  "fields": {
+    "external_id": 121,
+    "name": "iPhone 5s",
+    "slug": "iphone-5s-121",
+    "description": "The iPhone 5s is a classic smartphone known for its compact design and advanced features during its release. While it's an older model, it still provides a reliable user experience.",
+    "price": "199.99",
+    "brand": "Apple",
+    "stock": 25,
+    "category": 14,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:29.918Z",
+    "updated_at": "2026-11-18T12:39:29.918Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 122,
+  "fields": {
+    "external_id": 122,
+    "name": "iPhone 6",
+    "slug": "iphone-6-122",
+    "description": "The iPhone 6 is a stylish and capable smartphone with a larger display and improved performance. It introduced new features and design elements, making it a popular choice in its time.",
+    "price": "299.99",
+    "brand": "Apple",
+    "stock": 60,
+    "category": 14,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:30.219Z",
+    "updated_at": "2026-11-18T12:39:30.219Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 123,
+  "fields": {
+    "external_id": 123,
+    "name": "iPhone 13 Pro",
+    "slug": "iphone-13-pro-123",
+    "description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology.",
+    "price": "1099.99",
+    "brand": "Apple",
+    "stock": 56,
+    "category": 14,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:30.442Z",
+    "updated_at": "2026-11-18T12:39:30.442Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 124,
+  "fields": {
+    "external_id": 124,
+    "name": "iPhone X",
+    "slug": "iphone-x-124",
+    "description": "The iPhone X is a flagship smartphone featuring a bezel-less OLED display, facial recognition technology (Face ID), and impressive performance. It represents a milestone in iPhone design and innovation.",
+    "price": "899.99",
+    "brand": "Apple",
+    "stock": 37,
+    "category": 14,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:30.670Z",
+    "updated_at": "2026-11-18T12:39:30.670Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 125,
+  "fields": {
+    "external_id": 125,
+    "name": "Oppo A57",
+    "slug": "oppo-a57-125",
+    "description": "The Oppo A57 is a mid-range smartphone known for its sleek design and capable features. It offers a balance of performance and affordability, making it a popular choice.",
+    "price": "249.99",
+    "brand": "Oppo",
+    "stock": 19,
+    "category": 14,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:30.900Z",
+    "updated_at": "2026-11-18T12:39:30.900Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 126,
+  "fields": {
+    "external_id": 126,
+    "name": "Oppo F19 Pro Plus",
+    "slug": "oppo-f19-pro-plus-126",
+    "description": "The Oppo F19 Pro Plus is a feature-rich smartphone with a focus on camera capabilities. It boasts advanced photography features and a powerful performance for a premium user experience.",
+    "price": "399.99",
+    "brand": "Oppo",
+    "stock": 78,
+    "category": 14,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:31.170Z",
+    "updated_at": "2026-11-18T12:39:31.170Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 127,
+  "fields": {
+    "external_id": 127,
+    "name": "Oppo K1",
+    "slug": "oppo-k1-127",
+    "description": "The Oppo K1 series offers a range of smartphones with various features and specifications. Known for their stylish design and reliable performance, the Oppo K1 series caters to diverse user preferences.",
+    "price": "299.99",
+    "brand": "Oppo",
+    "stock": 55,
+    "category": 14,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:31.436Z",
+    "updated_at": "2026-11-18T12:39:31.436Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 128,
+  "fields": {
+    "external_id": 128,
+    "name": "Realme C35",
+    "slug": "realme-c35-128",
+    "description": "The Realme C35 is a budget-friendly smartphone with a focus on providing essential features for everyday use. It offers a reliable performance and user-friendly experience.",
+    "price": "149.99",
+    "brand": "Realme",
+    "stock": 48,
+    "category": 14,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:31.685Z",
+    "updated_at": "2026-11-18T12:39:31.685Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 129,
+  "fields": {
+    "external_id": 129,
+    "name": "Realme X",
+    "slug": "realme-x-129",
+    "description": "The Realme X is a mid-range smartphone known for its sleek design and impressive display. It offers a good balance of performance and camera capabilities for users seeking a quality device.",
+    "price": "299.99",
+    "brand": "Realme",
+    "stock": 12,
+    "category": 14,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:31.918Z",
+    "updated_at": "2026-11-18T12:39:31.918Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 130,
+  "fields": {
+    "external_id": 130,
+    "name": "Realme XT",
+    "slug": "realme-xt-130",
+    "description": "The Realme XT is a feature-rich smartphone with a focus on camera technology. It comes equipped with advanced camera sensors, delivering high-quality photos and videos for photography enthusiasts.",
+    "price": "349.99",
+    "brand": "Realme",
+    "stock": 80,
+    "category": 14,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:32.470Z",
+    "updated_at": "2026-11-18T12:39:32.470Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 131,
+  "fields": {
+    "external_id": 131,
+    "name": "Samsung Galaxy S7",
+    "slug": "samsung-galaxy-s7-131",
+    "description": "The Samsung Galaxy S7 is a flagship smartphone known for its sleek design and advanced features. It features a high-resolution display, powerful camera, and robust performance.",
+    "price": "299.99",
+    "brand": "Samsung",
+    "stock": 67,
+    "category": 14,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:32.703Z",
+    "updated_at": "2026-11-18T12:39:32.703Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 132,
+  "fields": {
+    "external_id": 132,
+    "name": "Samsung Galaxy S8",
+    "slug": "samsung-galaxy-s8-132",
+    "description": "The Samsung Galaxy S8 is a premium smartphone with an Infinity Display, offering a stunning visual experience. It boasts advanced camera capabilities and cutting-edge technology.",
+    "price": "499.99",
+    "brand": "Samsung",
+    "stock": 0,
+    "category": 14,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:32.917Z",
+    "updated_at": "2026-11-18T12:39:32.917Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 133,
+  "fields": {
+    "external_id": 133,
+    "name": "Samsung Galaxy S10",
+    "slug": "samsung-galaxy-s10-133",
+    "description": "The Samsung Galaxy S10 is a flagship device featuring a dynamic AMOLED display, versatile camera system, and powerful performance. It represents innovation and excellence in smartphone technology.",
+    "price": "699.99",
+    "brand": "Samsung",
+    "stock": 19,
+    "category": 14,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:33.173Z",
+    "updated_at": "2026-11-18T12:39:33.173Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 134,
+  "fields": {
+    "external_id": 134,
+    "name": "Vivo S1",
+    "slug": "vivo-s1-134",
+    "description": "The Vivo S1 is a stylish and mid-range smartphone offering a blend of design and performance. It features a vibrant display, capable camera system, and reliable functionality.",
+    "price": "249.99",
+    "brand": "Vivo",
+    "stock": 50,
+    "category": 14,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:33.403Z",
+    "updated_at": "2026-11-18T12:39:33.403Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 135,
+  "fields": {
+    "external_id": 135,
+    "name": "Vivo V9",
+    "slug": "vivo-v9-135",
+    "description": "The Vivo V9 is a smartphone known for its sleek design and emphasis on capturing high-quality selfies. It features a notch display, dual-camera setup, and a modern design.",
+    "price": "299.99",
+    "brand": "Vivo",
+    "stock": 82,
+    "category": 14,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:33.680Z",
+    "updated_at": "2026-11-18T12:39:33.680Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 136,
+  "fields": {
+    "external_id": 136,
+    "name": "Vivo X21",
+    "slug": "vivo-x21-136",
+    "description": "The Vivo X21 is a premium smartphone with a focus on cutting-edge technology. It features an in-display fingerprint sensor, a high-resolution display, and advanced camera capabilities.",
+    "price": "499.99",
+    "brand": "Vivo",
+    "stock": 7,
+    "category": 14,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:33.910Z",
+    "updated_at": "2026-11-18T12:39:33.910Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 137,
+  "fields": {
+    "external_id": 137,
+    "name": "American Football",
+    "slug": "american-football-137",
+    "description": "The American Football is a classic ball used in American football games. It is designed for throwing and catching, making it an essential piece of equipment for the sport.",
+    "price": "19.99",
+    "brand": "",
+    "stock": 53,
+    "category": 15,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:34.173Z",
+    "updated_at": "2026-11-18T12:39:34.173Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 138,
+  "fields": {
+    "external_id": 138,
+    "name": "Baseball Ball",
+    "slug": "baseball-ball-138",
+    "description": "The Baseball Ball is a standard baseball used in baseball games. It features a durable leather cover and is designed for pitching, hitting, and fielding in the game of baseball.",
+    "price": "8.99",
+    "brand": "",
+    "stock": 100,
+    "category": 15,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:34.424Z",
+    "updated_at": "2026-11-18T12:39:34.424Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 139,
+  "fields": {
+    "external_id": 139,
+    "name": "Baseball Glove",
+    "slug": "baseball-glove-139",
+    "description": "The Baseball Glove is a protective glove worn by baseball players. It is designed to catch and field the baseball, providing players with comfort and control during the game.",
+    "price": "24.99",
+    "brand": "",
+    "stock": 22,
+    "category": 15,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:34.633Z",
+    "updated_at": "2026-11-18T12:39:34.633Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 140,
+  "fields": {
+    "external_id": 140,
+    "name": "Basketball",
+    "slug": "basketball-140",
+    "description": "The Basketball is a standard ball used in basketball games. It is designed for dribbling, shooting, and passing in the game of basketball, suitable for both indoor and outdoor play.",
+    "price": "14.99",
+    "brand": "",
+    "stock": 75,
+    "category": 15,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:35.271Z",
+    "updated_at": "2026-11-18T12:39:35.271Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 141,
+  "fields": {
+    "external_id": 141,
+    "name": "Basketball Rim",
+    "slug": "basketball-rim-141",
+    "description": "The Basketball Rim is a sturdy hoop and net assembly mounted on a basketball backboard. It provides a target for shooting and scoring in the game of basketball.",
+    "price": "39.99",
+    "brand": "",
+    "stock": 43,
+    "category": 15,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:35.545Z",
+    "updated_at": "2026-11-18T12:39:35.545Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 142,
+  "fields": {
+    "external_id": 142,
+    "name": "Cricket Ball",
+    "slug": "cricket-ball-142",
+    "description": "The Cricket Ball is a hard leather ball used in the sport of cricket. It is bowled and batted in the game, and its hardness and seam contribute to the dynamics of cricket play.",
+    "price": "12.99",
+    "brand": "",
+    "stock": 30,
+    "category": 15,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:35.795Z",
+    "updated_at": "2026-11-18T12:39:35.795Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 143,
+  "fields": {
+    "external_id": 143,
+    "name": "Cricket Bat",
+    "slug": "cricket-bat-143",
+    "description": "The Cricket Bat is an essential piece of cricket equipment used by batsmen to hit the cricket ball. It is made of wood and comes in various sizes and designs.",
+    "price": "29.99",
+    "brand": "",
+    "stock": 98,
+    "category": 15,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:36.035Z",
+    "updated_at": "2026-11-18T12:39:36.035Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 144,
+  "fields": {
+    "external_id": 144,
+    "name": "Cricket Helmet",
+    "slug": "cricket-helmet-144",
+    "description": "The Cricket Helmet is a protective headgear worn by cricket players, especially batsmen and wicketkeepers. It provides protection against fast bowling and bouncers.",
+    "price": "44.99",
+    "brand": "",
+    "stock": 10,
+    "category": 15,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:36.267Z",
+    "updated_at": "2026-11-18T12:39:36.267Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 145,
+  "fields": {
+    "external_id": 145,
+    "name": "Cricket Wicket",
+    "slug": "cricket-wicket-145",
+    "description": "The Cricket Wicket is a set of three stumps and two bails, forming a wicket used in the sport of cricket. Batsmen aim to protect the wicket while scoring runs.",
+    "price": "29.99",
+    "brand": "",
+    "stock": 25,
+    "category": 15,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:36.587Z",
+    "updated_at": "2026-11-18T12:39:36.587Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 146,
+  "fields": {
+    "external_id": 146,
+    "name": "Feather Shuttlecock",
+    "slug": "feather-shuttlecock-146",
+    "description": "The Feather Shuttlecock is used in the sport of badminton. It features natural feathers and is designed for high-speed play, providing stability and accuracy during matches.",
+    "price": "5.99",
+    "brand": "",
+    "stock": 95,
+    "category": 15,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:36.802Z",
+    "updated_at": "2026-11-18T12:39:36.802Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 147,
+  "fields": {
+    "external_id": 147,
+    "name": "Football",
+    "slug": "football-147",
+    "description": "The Football, also known as a soccer ball, is the standard ball used in the sport of football (soccer). It is designed for kicking and passing in the game.",
+    "price": "17.99",
+    "brand": "",
+    "stock": 96,
+    "category": 15,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:37.014Z",
+    "updated_at": "2026-11-18T12:39:37.014Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 148,
+  "fields": {
+    "external_id": 148,
+    "name": "Golf Ball",
+    "slug": "golf-ball-148",
+    "description": "The Golf Ball is a small ball used in the sport of golf. It features dimples on its surface, providing aerodynamic lift and distance when struck by a golf club.",
+    "price": "9.99",
+    "brand": "",
+    "stock": 84,
+    "category": 15,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:37.203Z",
+    "updated_at": "2026-11-18T12:39:37.203Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 149,
+  "fields": {
+    "external_id": 149,
+    "name": "Iron Golf",
+    "slug": "iron-golf-149",
+    "description": "The Iron Golf is a type of golf club designed for various golf shots. It features a solid metal head and is used for approach shots, chipping, and other golfing techniques.",
+    "price": "49.99",
+    "brand": "",
+    "stock": 90,
+    "category": 15,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:37.449Z",
+    "updated_at": "2026-11-18T12:39:37.449Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 150,
+  "fields": {
+    "external_id": 150,
+    "name": "Metal Baseball Bat",
+    "slug": "metal-baseball-bat-150",
+    "description": "The Metal Baseball Bat is a durable and lightweight baseball bat made from metal alloys. It is commonly used in baseball games for hitting and batting practice.",
+    "price": "29.99",
+    "brand": "",
+    "stock": 16,
+    "category": 15,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:37.623Z",
+    "updated_at": "2026-11-18T12:39:37.623Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 151,
+  "fields": {
+    "external_id": 151,
+    "name": "Tennis Ball",
+    "slug": "tennis-ball-151",
+    "description": "The Tennis Ball is a standard ball used in the sport of tennis. It is designed for bouncing and hitting with tennis rackets during matches or practice sessions.",
+    "price": "6.99",
+    "brand": "",
+    "stock": 28,
+    "category": 15,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:37.838Z",
+    "updated_at": "2026-11-18T12:39:37.838Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 152,
+  "fields": {
+    "external_id": 152,
+    "name": "Tennis Racket",
+    "slug": "tennis-racket-152",
+    "description": "The Tennis Racket is an essential piece of equipment used in the sport of tennis. It features a frame with strings and a grip, allowing players to hit the tennis ball.",
+    "price": "49.99",
+    "brand": "",
+    "stock": 6,
+    "category": 15,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:38.075Z",
+    "updated_at": "2026-11-18T12:39:38.075Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 153,
+  "fields": {
+    "external_id": 153,
+    "name": "Volleyball",
+    "slug": "volleyball-153",
+    "description": "The Volleyball is a standard ball used in the sport of volleyball. It is designed for passing, setting, and spiking over the net during volleyball matches.",
+    "price": "11.99",
+    "brand": "",
+    "stock": 0,
+    "category": 15,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:38.239Z",
+    "updated_at": "2026-11-18T12:39:38.239Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 154,
+  "fields": {
+    "external_id": 154,
+    "name": "Black Sun Glasses",
+    "slug": "black-sun-glasses-154",
+    "description": "The Black Sun Glasses are a classic and stylish choice, featuring a sleek black frame and tinted lenses. They provide both UV protection and a fashionable look.",
+    "price": "29.99",
+    "brand": "Fashion Shades",
+    "stock": 60,
+    "category": 16,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:38.489Z",
+    "updated_at": "2026-11-18T12:39:38.489Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 155,
+  "fields": {
+    "external_id": 155,
+    "name": "Classic Sun Glasses",
+    "slug": "classic-sun-glasses-155",
+    "description": "The Classic Sun Glasses offer a timeless design with a neutral frame and UV-protected lenses. These sunglasses are versatile and suitable for various occasions.",
+    "price": "24.99",
+    "brand": "Fashion Shades",
+    "stock": 1,
+    "category": 16,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:38.671Z",
+    "updated_at": "2026-11-18T12:39:38.671Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 156,
+  "fields": {
+    "external_id": 156,
+    "name": "Green and Black Glasses",
+    "slug": "green-and-black-glasses-156",
+    "description": "The Green and Black Glasses feature a bold combination of green and black colors, adding a touch of vibrancy to your eyewear collection. They are both stylish and eye-catching.",
+    "price": "34.99",
+    "brand": "Fashion Shades",
+    "stock": 24,
+    "category": 16,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:38.906Z",
+    "updated_at": "2026-11-18T12:39:38.906Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 157,
+  "fields": {
+    "external_id": 157,
+    "name": "Party Glasses",
+    "slug": "party-glasses-157",
+    "description": "The Party Glasses are designed to add flair to your party outfit. With unique shapes or colorful frames, they're perfect for adding a playful touch to your look during celebrations.",
+    "price": "19.99",
+    "brand": "Fashion Fun",
+    "stock": 86,
+    "category": 16,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:39.146Z",
+    "updated_at": "2026-11-18T12:39:39.146Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 158,
+  "fields": {
+    "external_id": 158,
+    "name": "Sunglasses",
+    "slug": "sunglasses-158",
+    "description": "The Sunglasses offer a classic and simple design with a focus on functionality. These sunglasses provide essential UV protection while maintaining a timeless look.",
+    "price": "22.99",
+    "brand": "Fashion Shades",
+    "stock": 27,
+    "category": 16,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:39.764Z",
+    "updated_at": "2026-11-18T12:39:39.764Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 159,
+  "fields": {
+    "external_id": 159,
+    "name": "iPad Mini 2021 Starlight",
+    "slug": "ipad-mini-2021-starlight-159",
+    "description": "The iPad Mini 2021 in Starlight is a compact and powerful tablet from Apple. Featuring a stunning Retina display, powerful A-series chip, and a sleek design, it offers a premium tablet experience.",
+    "price": "499.99",
+    "brand": "Apple",
+    "stock": 47,
+    "category": 17,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:40.004Z",
+    "updated_at": "2026-11-18T12:39:40.004Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 160,
+  "fields": {
+    "external_id": 160,
+    "name": "Samsung Galaxy Tab S8 Plus Grey",
+    "slug": "samsung-galaxy-tab-s8-plus-grey-160",
+    "description": "The Samsung Galaxy Tab S8 Plus in Grey is a high-performance Android tablet by Samsung. With a large AMOLED display, powerful processor, and S Pen support, it's ideal for productivity and entertainment.",
+    "price": "599.99",
+    "brand": "Samsung",
+    "stock": 62,
+    "category": 17,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:40.366Z",
+    "updated_at": "2026-11-18T12:39:40.366Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 161,
+  "fields": {
+    "external_id": 161,
+    "name": "Samsung Galaxy Tab White",
+    "slug": "samsung-galaxy-tab-white-161",
+    "description": "The Samsung Galaxy Tab in White is a sleek and versatile Android tablet. With a vibrant display, long-lasting battery, and a range of features, it offers a great user experience for various tasks.",
+    "price": "349.99",
+    "brand": "Samsung",
+    "stock": 92,
+    "category": 17,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:40.582Z",
+    "updated_at": "2026-11-18T12:39:40.582Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 162,
+  "fields": {
+    "external_id": 162,
+    "name": "Blue Frock",
+    "slug": "blue-frock-162",
+    "description": "The Blue Frock is a charming and stylish dress for various occasions. With a vibrant blue color and a comfortable design, it adds a touch of elegance to your wardrobe.",
+    "price": "29.99",
+    "brand": "",
+    "stock": 52,
+    "category": 18,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:41.235Z",
+    "updated_at": "2026-11-18T12:39:41.235Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 163,
+  "fields": {
+    "external_id": 163,
+    "name": "Girl Summer Dress",
+    "slug": "girl-summer-dress-163",
+    "description": "The Girl Summer Dress is a cute and breezy dress designed for warm weather. With playful patterns and lightweight fabric, it's perfect for keeping cool and stylish during the summer.",
+    "price": "19.99",
+    "brand": "",
+    "stock": 43,
+    "category": 18,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:41.464Z",
+    "updated_at": "2026-11-18T12:39:41.464Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 164,
+  "fields": {
+    "external_id": 164,
+    "name": "Gray Dress",
+    "slug": "gray-dress-164",
+    "description": "The Gray Dress is a versatile and chic option for various occasions. With a neutral gray color, it can be dressed up or down, making it a wardrobe staple for any fashion-forward individual.",
+    "price": "34.99",
+    "brand": "",
+    "stock": 55,
+    "category": 18,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:41.700Z",
+    "updated_at": "2026-11-18T12:39:41.701Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 165,
+  "fields": {
+    "external_id": 165,
+    "name": "Short Frock",
+    "slug": "short-frock-165",
+    "description": "The Short Frock is a playful and trendy dress with a shorter length. Ideal for casual outings or special occasions, it combines style and comfort for a fashionable look.",
+    "price": "24.99",
+    "brand": "",
+    "stock": 22,
+    "category": 18,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:41.949Z",
+    "updated_at": "2026-11-18T12:39:41.949Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 166,
+  "fields": {
+    "external_id": 166,
+    "name": "Tartan Dress",
+    "slug": "tartan-dress-166",
+    "description": "The Tartan Dress features a classic tartan pattern, bringing a timeless and sophisticated touch to your wardrobe. Perfect for fall and winter, it adds a hint of traditional charm.",
+    "price": "39.99",
+    "brand": "",
+    "stock": 73,
+    "category": 18,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:42.163Z",
+    "updated_at": "2026-11-18T12:39:42.163Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 167,
+  "fields": {
+    "external_id": 167,
+    "name": "300 Touring",
+    "slug": "300-touring-167",
+    "description": "The 300 Touring is a stylish and comfortable sedan, known for its luxurious features and smooth performance.",
+    "price": "28999.99",
+    "brand": "Chrysler",
+    "stock": 54,
+    "category": 19,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:42.413Z",
+    "updated_at": "2026-11-18T12:39:42.413Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 168,
+  "fields": {
+    "external_id": 168,
+    "name": "Charger SXT RWD",
+    "slug": "charger-sxt-rwd-168",
+    "description": "The Charger SXT RWD is a powerful and sporty rear-wheel-drive sedan, offering a blend of performance and practicality.",
+    "price": "32999.99",
+    "brand": "Dodge",
+    "stock": 57,
+    "category": 19,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:42.653Z",
+    "updated_at": "2026-11-18T12:39:42.653Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 169,
+  "fields": {
+    "external_id": 169,
+    "name": "Dodge Hornet GT Plus",
+    "slug": "dodge-hornet-gt-plus-169",
+    "description": "The Dodge Hornet GT Plus is a compact and agile hatchback, perfect for urban driving with a touch of sportiness.",
+    "price": "24999.99",
+    "brand": "Dodge",
+    "stock": 82,
+    "category": 19,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:42.913Z",
+    "updated_at": "2026-11-18T12:39:42.913Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 170,
+  "fields": {
+    "external_id": 170,
+    "name": "Durango SXT RWD",
+    "slug": "durango-sxt-rwd-170",
+    "description": "The Durango SXT RWD is a spacious and versatile SUV, known for its strong performance and family-friendly features.",
+    "price": "36999.99",
+    "brand": "Dodge",
+    "stock": 95,
+    "category": 19,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:43.122Z",
+    "updated_at": "2026-11-18T12:39:43.122Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 171,
+  "fields": {
+    "external_id": 171,
+    "name": "Pacifica Touring",
+    "slug": "pacifica-touring-171",
+    "description": "The Pacifica Touring is a stylish and well-equipped minivan, offering comfort and convenience for family journeys.",
+    "price": "31999.99",
+    "brand": "Chrysler",
+    "stock": 53,
+    "category": 19,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:43.748Z",
+    "updated_at": "2026-11-18T12:39:43.748Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 172,
+  "fields": {
+    "external_id": 172,
+    "name": "Blue Women's Handbag",
+    "slug": "blue-womens-handbag-172",
+    "description": "The Blue Women's Handbag is a stylish and spacious accessory for everyday use. With a vibrant blue color and multiple compartments, it combines fashion and functionality.",
+    "price": "49.99",
+    "brand": "Fashionista",
+    "stock": 76,
+    "category": 20,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:44.231Z",
+    "updated_at": "2026-11-18T12:39:44.231Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 173,
+  "fields": {
+    "external_id": 173,
+    "name": "Heshe Women's Leather Bag",
+    "slug": "heshe-womens-leather-bag-173",
+    "description": "The Heshe Women's Leather Bag is a luxurious and high-quality leather bag for the sophisticated woman. With a timeless design and durable craftsmanship, it's a versatile accessory.",
+    "price": "129.99",
+    "brand": "Heshe",
+    "stock": 99,
+    "category": 20,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:44.441Z",
+    "updated_at": "2026-11-18T12:39:44.441Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 174,
+  "fields": {
+    "external_id": 174,
+    "name": "Prada Women Bag",
+    "slug": "prada-women-bag-174",
+    "description": "The Prada Women Bag is an iconic designer bag that exudes elegance and luxury. Crafted with precision and featuring the Prada logo, it's a statement piece for fashion enthusiasts.",
+    "price": "599.99",
+    "brand": "Prada",
+    "stock": 75,
+    "category": 20,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:44.649Z",
+    "updated_at": "2026-11-18T12:39:44.649Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 175,
+  "fields": {
+    "external_id": 175,
+    "name": "White Faux Leather Backpack",
+    "slug": "white-faux-leather-backpack-175",
+    "description": "The White Faux Leather Backpack is a trendy and practical backpack for the modern woman. With a sleek white design and ample storage space, it's perfect for both casual and on-the-go styles.",
+    "price": "39.99",
+    "brand": "Urban Chic",
+    "stock": 39,
+    "category": 20,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:44.830Z",
+    "updated_at": "2026-11-18T12:39:44.830Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 176,
+  "fields": {
+    "external_id": 176,
+    "name": "Women Handbag Black",
+    "slug": "women-handbag-black-176",
+    "description": "The Women Handbag in Black is a classic and versatile accessory that complements various outfits. With a timeless black color and functional design, it's a must-have in every woman's wardrobe.",
+    "price": "59.99",
+    "brand": "Elegance Collection",
+    "stock": 11,
+    "category": 20,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:45.144Z",
+    "updated_at": "2026-11-18T12:39:45.144Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 177,
+  "fields": {
+    "external_id": 177,
+    "name": "Black Women's Gown",
+    "slug": "black-womens-gown-177",
+    "description": "The Black Women's Gown is an elegant and timeless evening gown. With a sleek black design, it's perfect for formal events and special occasions, exuding sophistication and style.",
+    "price": "129.99",
+    "brand": "",
+    "stock": 25,
+    "category": 21,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:45.371Z",
+    "updated_at": "2026-11-18T12:39:45.371Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 178,
+  "fields": {
+    "external_id": 178,
+    "name": "Corset Leather With Skirt",
+    "slug": "corset-leather-with-skirt-178",
+    "description": "The Corset Leather With Skirt is a bold and edgy ensemble that combines a stylish corset with a matching skirt. Ideal for fashion-forward individuals, it makes a statement at any event.",
+    "price": "89.99",
+    "brand": "",
+    "stock": 30,
+    "category": 21,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:45.591Z",
+    "updated_at": "2026-11-18T12:39:45.591Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 179,
+  "fields": {
+    "external_id": 179,
+    "name": "Corset With Black Skirt",
+    "slug": "corset-with-black-skirt-179",
+    "description": "The Corset With Black Skirt is a chic and versatile outfit that pairs a fashionable corset with a classic black skirt. It offers a trendy and coordinated look for various occasions.",
+    "price": "79.99",
+    "brand": "",
+    "stock": 33,
+    "category": 21,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:45.808Z",
+    "updated_at": "2026-11-18T12:39:45.808Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 180,
+  "fields": {
+    "external_id": 180,
+    "name": "Dress Pea",
+    "slug": "dress-pea-180",
+    "description": "The Dress Pea is a stylish and comfortable dress with a pea pattern. Perfect for casual outings, it adds a playful and fun element to your wardrobe, making it a great choice for day-to-day wear.",
+    "price": "49.99",
+    "brand": "",
+    "stock": 6,
+    "category": 21,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:46.059Z",
+    "updated_at": "2026-11-18T12:39:46.059Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 181,
+  "fields": {
+    "external_id": 181,
+    "name": "Marni Red & Black Suit",
+    "slug": "marni-red-black-suit-181",
+    "description": "The Marni Red & Black Suit is a sophisticated and fashion-forward suit ensemble. With a combination of red and black tones, it showcases a modern design for a bold and confident look.",
+    "price": "179.99",
+    "brand": "",
+    "stock": 62,
+    "category": 21,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:46.353Z",
+    "updated_at": "2026-11-18T12:39:46.353Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 182,
+  "fields": {
+    "external_id": 182,
+    "name": "Green Crystal Earring",
+    "slug": "green-crystal-earring-182",
+    "description": "The Green Crystal Earring is a dazzling accessory that features a vibrant green crystal. With a classic design, it adds a touch of elegance to your ensemble, perfect for formal or special occasions.",
+    "price": "29.99",
+    "brand": "",
+    "stock": 54,
+    "category": 22,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:46.587Z",
+    "updated_at": "2026-11-18T12:39:46.587Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 183,
+  "fields": {
+    "external_id": 183,
+    "name": "Green Oval Earring",
+    "slug": "green-oval-earring-183",
+    "description": "The Green Oval Earring is a stylish and versatile accessory with a unique oval shape. Whether for casual or dressy occasions, its green hue and contemporary design make it a standout piece.",
+    "price": "24.99",
+    "brand": "",
+    "stock": 73,
+    "category": 22,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:46.813Z",
+    "updated_at": "2026-11-18T12:39:46.813Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 184,
+  "fields": {
+    "external_id": 184,
+    "name": "Tropical Earring",
+    "slug": "tropical-earring-184",
+    "description": "The Tropical Earring is a fun and playful accessory inspired by tropical elements. Featuring vibrant colors and a lively design, it's perfect for adding a touch of summer to your look.",
+    "price": "19.99",
+    "brand": "",
+    "stock": 1,
+    "category": 22,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:47.033Z",
+    "updated_at": "2026-11-18T12:39:47.033Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 185,
+  "fields": {
+    "external_id": 185,
+    "name": "Black & Brown Slipper",
+    "slug": "black-brown-slipper-185",
+    "description": "The Black & Brown Slipper is a comfortable and stylish choice for casual wear. Featuring a blend of black and brown colors, it adds a touch of sophistication to your relaxation.",
+    "price": "19.99",
+    "brand": "Comfort Trends",
+    "stock": 3,
+    "category": 23,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:47.241Z",
+    "updated_at": "2026-11-18T12:39:47.241Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 186,
+  "fields": {
+    "external_id": 186,
+    "name": "Calvin Klein Heel Shoes",
+    "slug": "calvin-klein-heel-shoes-186",
+    "description": "Calvin Klein Heel Shoes are elegant and sophisticated, designed for formal occasions. With a classic design and high-quality materials, they complement your stylish ensemble.",
+    "price": "79.99",
+    "brand": "Calvin Klein",
+    "stock": 93,
+    "category": 23,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:47.490Z",
+    "updated_at": "2026-11-18T12:39:47.490Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 187,
+  "fields": {
+    "external_id": 187,
+    "name": "Golden Shoes Woman",
+    "slug": "golden-shoes-woman-187",
+    "description": "The Golden Shoes for Women are a glamorous choice for special occasions. Featuring a golden hue and stylish design, they add a touch of luxury to your outfit.",
+    "price": "49.99",
+    "brand": "Fashion Diva",
+    "stock": 88,
+    "category": 23,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:47.719Z",
+    "updated_at": "2026-11-18T12:39:47.719Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 188,
+  "fields": {
+    "external_id": 188,
+    "name": "Pampi Shoes",
+    "slug": "pampi-shoes-188",
+    "description": "Pampi Shoes offer a blend of comfort and style for everyday use. With a versatile design, they are suitable for various casual occasions, providing a trendy and relaxed look.",
+    "price": "29.99",
+    "brand": "Pampi",
+    "stock": 49,
+    "category": 23,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:47.903Z",
+    "updated_at": "2026-11-18T12:39:47.903Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 189,
+  "fields": {
+    "external_id": 189,
+    "name": "Red Shoes",
+    "slug": "red-shoes-189",
+    "description": "The Red Shoes make a bold statement with their vibrant red color. Whether for a party or a casual outing, these shoes add a pop of color and style to your wardrobe.",
+    "price": "34.99",
+    "brand": "Fashion Express",
+    "stock": 7,
+    "category": 23,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:48.124Z",
+    "updated_at": "2026-11-18T12:39:48.124Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 190,
+  "fields": {
+    "external_id": 190,
+    "name": "IWC Ingenieur Automatic Steel",
+    "slug": "iwc-ingenieur-automatic-steel-190",
+    "description": "The IWC Ingenieur Automatic Steel watch is a durable and sophisticated timepiece. With a stainless steel case and automatic movement, it combines precision and style for watch enthusiasts.",
+    "price": "4999.99",
+    "brand": "IWC",
+    "stock": 90,
+    "category": 24,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:48.302Z",
+    "updated_at": "2026-11-18T12:39:48.302Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 191,
+  "fields": {
+    "external_id": 191,
+    "name": "Rolex Cellini Moonphase",
+    "slug": "rolex-cellini-moonphase-191",
+    "description": "The Rolex Cellini Moonphase watch is a masterpiece of horology. Featuring a moon phase complication, it showcases the craftsmanship and elegance that Rolex is renowned for.",
+    "price": "15999.99",
+    "brand": "Rolex",
+    "stock": 52,
+    "category": 24,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:48.542Z",
+    "updated_at": "2026-11-18T12:39:48.542Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 192,
+  "fields": {
+    "external_id": 192,
+    "name": "Rolex Datejust Women",
+    "slug": "rolex-datejust-women-192",
+    "description": "The Rolex Datejust Women's watch is an iconic timepiece designed for women. With a timeless design and a date complication, it offers both elegance and functionality.",
+    "price": "10999.99",
+    "brand": "Rolex",
+    "stock": 4,
+    "category": 24,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:48.790Z",
+    "updated_at": "2026-11-18T12:39:48.790Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 193,
+  "fields": {
+    "external_id": 193,
+    "name": "Watch Gold for Women",
+    "slug": "watch-gold-for-women-193",
+    "description": "The Gold Women's Watch is a stunning accessory that combines luxury and style. Featuring a gold-plated case and a chic design, it adds a touch of glamour to any outfit.",
+    "price": "799.99",
+    "brand": "Fashion Gold",
+    "stock": 0,
+    "category": 24,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:49.012Z",
+    "updated_at": "2026-11-18T12:39:49.012Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 194,
+  "fields": {
+    "external_id": 194,
+    "name": "Women's Wrist Watch",
+    "slug": "womens-wrist-watch-194",
+    "description": "The Women's Wrist Watch is a versatile and fashionable timepiece for everyday wear. With a comfortable strap and a simple yet elegant design, it complements various styles.",
+    "price": "129.99",
+    "brand": "Fashion Co.",
+    "stock": 12,
+    "category": 24,
+    "is_active": true,
+    "created_at": "2026-11-18T12:39:49.239Z",
+    "updated_at": "2026-11-18T12:39:49.239Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 1,
+  "fields": {
+    "product": 1,
+    "image": "products/1/a429522b6f86418eb056ec70660f2d1e.webp",
+    "alt_text": "Essence Mascara Lash Princess image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:35:43.460Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 2,
+  "fields": {
+    "product": 2,
+    "image": "products/2/7f5bf1f6bfc84d2d8d048e3e7f4ad9f6.webp",
+    "alt_text": "Eyeshadow Palette with Mirror image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:35:43.755Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 3,
+  "fields": {
+    "product": 3,
+    "image": "products/3/2d40928f7d254b2591986826be6129e1.webp",
+    "alt_text": "Powder Canister image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:35:44.261Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 4,
+  "fields": {
+    "product": 4,
+    "image": "products/4/7974d0b16bba4098a7dc6da63b733c99.webp",
+    "alt_text": "Red Lipstick image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:35:44.568Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 5,
+  "fields": {
+    "product": 5,
+    "image": "products/5/a9d79f37ba4b4ac1bc0b98db7fa4490b.webp",
+    "alt_text": "Red Nail Polish image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:35:45.181Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 6,
+  "fields": {
+    "product": 6,
+    "image": "products/6/3cf2313d68d54b2cafc382e9b5ae561f.webp",
+    "alt_text": "Calvin Klein CK One image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:35:45.470Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 7,
+  "fields": {
+    "product": 7,
+    "image": "products/7/aa492d51d0024713a3be46dc3132a8f3.webp",
+    "alt_text": "Chanel Coco Noir Eau De image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:35:45.689Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 8,
+  "fields": {
+    "product": 8,
+    "image": "products/8/c5d827a154e146e9ad8b10ecdd9ef29d.webp",
+    "alt_text": "Dior J'adore image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:35:45.926Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 9,
+  "fields": {
+    "product": 9,
+    "image": "products/9/97d83302a6f641a181fabd3801d0274c.webp",
+    "alt_text": "Dolce Shine Eau de image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:35:46.238Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 10,
+  "fields": {
+    "product": 10,
+    "image": "products/10/d171d7a3214a43b1b3e70faec4cc586a.webp",
+    "alt_text": "Gucci Bloom Eau de image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:35:46.598Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 11,
+  "fields": {
+    "product": 11,
+    "image": "products/11/6df47b637a5e4b5a9038db2cee7dbeb5.webp",
+    "alt_text": "Annibale Colombo Bed image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:48.024Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 12,
+  "fields": {
+    "product": 12,
+    "image": "products/12/49308b0350674749a30fc665102a3ad0.webp",
+    "alt_text": "Annibale Colombo Sofa image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:48.920Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 13,
+  "fields": {
+    "product": 13,
+    "image": "products/13/df403024c6e24b679c0890047404a92d.webp",
+    "alt_text": "Bedside Table African Cherry image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:49.702Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 14,
+  "fields": {
+    "product": 14,
+    "image": "products/14/0a978f359f4745909e0907a8ca0d8df1.webp",
+    "alt_text": "Knoll Saarinen Executive Conference Chair image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:50.582Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 15,
+  "fields": {
+    "product": 15,
+    "image": "products/15/c2063f2a3eab4b6ab271bf1ff50b73b8.webp",
+    "alt_text": "Wooden Bathroom Sink With Mirror image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:50.828Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 16,
+  "fields": {
+    "product": 16,
+    "image": "products/16/51ff40344f574d2b8c32133c2b176d84.webp",
+    "alt_text": "Apple image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:51.079Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 17,
+  "fields": {
+    "product": 17,
+    "image": "products/17/0246a7bbc2764cdeb73f46b46440763e.webp",
+    "alt_text": "Beef Steak image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:51.592Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 18,
+  "fields": {
+    "product": 18,
+    "image": "products/18/bc5a8cf48ea7491daa2eabb32229f57b.webp",
+    "alt_text": "Cat Food image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:52.065Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 19,
+  "fields": {
+    "product": 19,
+    "image": "products/19/66fa21eec721450aac8ca41defd51e33.webp",
+    "alt_text": "Chicken Meat image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:52.465Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 20,
+  "fields": {
+    "product": 20,
+    "image": "products/20/b60e447ffd4742ff843068b7ef55ed2a.webp",
+    "alt_text": "Cooking Oil image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:52.852Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 21,
+  "fields": {
+    "product": 21,
+    "image": "products/21/36b59a1ca8844e9a92e9f77f418be2c7.webp",
+    "alt_text": "Cucumber image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:53.282Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 22,
+  "fields": {
+    "product": 22,
+    "image": "products/22/ca02c84bf33845bf856d78dab2b12c16.webp",
+    "alt_text": "Dog Food image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:53.696Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 23,
+  "fields": {
+    "product": 23,
+    "image": "products/23/4aec844646904b4ebeaba1408619f338.webp",
+    "alt_text": "Eggs image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:54.132Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 24,
+  "fields": {
+    "product": 24,
+    "image": "products/24/cfea70fa77ac427284b810a9427ae154.webp",
+    "alt_text": "Fish Steak image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:54.770Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 25,
+  "fields": {
+    "product": 25,
+    "image": "products/25/0d4c4aff79174011ab63db7f83c8d23b.webp",
+    "alt_text": "Green Bell Pepper image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:55.262Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 26,
+  "fields": {
+    "product": 26,
+    "image": "products/26/7670712009044802bf2d33d7bc392a58.webp",
+    "alt_text": "Green Chili Pepper image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:56.070Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 27,
+  "fields": {
+    "product": 27,
+    "image": "products/27/29640a062e9341d9a7f90a6bf2dfd54c.webp",
+    "alt_text": "Honey Jar image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:56.441Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 28,
+  "fields": {
+    "product": 28,
+    "image": "products/28/e69900384b1d45528825313798e40ad4.webp",
+    "alt_text": "Ice Cream image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:56.657Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 29,
+  "fields": {
+    "product": 29,
+    "image": "products/29/aae39c2a219f42359f568c19d0a26a26.webp",
+    "alt_text": "Juice image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:56.870Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 30,
+  "fields": {
+    "product": 30,
+    "image": "products/30/fd03b60a2af24bb2b1a9034ffa25af91.webp",
+    "alt_text": "Kiwi image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:57.280Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 31,
+  "fields": {
+    "product": 31,
+    "image": "products/31/b28d711dbd2a4a4bb1956e7e33bebe5e.webp",
+    "alt_text": "Lemon image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:57.650Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 32,
+  "fields": {
+    "product": 32,
+    "image": "products/32/868ea5d9a3cd495587770b266e800788.webp",
+    "alt_text": "Milk image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:58.600Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 33,
+  "fields": {
+    "product": 33,
+    "image": "products/33/8dddbbe89c0049798339b62a02ab226f.webp",
+    "alt_text": "Mulberry image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:59.557Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 34,
+  "fields": {
+    "product": 34,
+    "image": "products/34/d602c1dd040a4f6db8b87fb30f790d10.webp",
+    "alt_text": "Nescafe Coffee image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:38:59.978Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 35,
+  "fields": {
+    "product": 35,
+    "image": "products/35/28df9d6f780a46ae9ed86bc3aac94912.webp",
+    "alt_text": "Potatoes image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:00.368Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 36,
+  "fields": {
+    "product": 36,
+    "image": "products/36/de5c5a4bef26448dac7d5f3a505e5c3a.webp",
+    "alt_text": "Protein Powder image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:01.235Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 37,
+  "fields": {
+    "product": 37,
+    "image": "products/37/75f38a03b72e430d811c048679b58ca7.webp",
+    "alt_text": "Red Onions image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:02.178Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 38,
+  "fields": {
+    "product": 38,
+    "image": "products/38/eb3c841239f54a488931027daab92cfc.webp",
+    "alt_text": "Rice image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:02.387Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 39,
+  "fields": {
+    "product": 39,
+    "image": "products/39/6a90256121814ce1be8cd5474ffda04f.webp",
+    "alt_text": "Soft Drinks image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:02.557Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 40,
+  "fields": {
+    "product": 40,
+    "image": "products/40/506750fd3b3249e8af35d03cd59e6625.webp",
+    "alt_text": "Strawberry image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:02.769Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 41,
+  "fields": {
+    "product": 41,
+    "image": "products/41/87d61ee515ec493393b902ca34c853e1.webp",
+    "alt_text": "Tissue Paper Box image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:02.985Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 42,
+  "fields": {
+    "product": 42,
+    "image": "products/42/b20b4e4b3c6b4d33b9c9c47c7aa3ab8c.webp",
+    "alt_text": "Water image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:03.186Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 43,
+  "fields": {
+    "product": 43,
+    "image": "products/43/d561fc7db36342be8498a8a9a5ceadea.webp",
+    "alt_text": "Decoration Swing image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:03.417Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 44,
+  "fields": {
+    "product": 44,
+    "image": "products/44/95dbec39d437445c8260122c062c6961.webp",
+    "alt_text": "Family Tree Photo Frame image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:04.019Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 45,
+  "fields": {
+    "product": 45,
+    "image": "products/45/62af36f4457c4c4282c635ffb7192903.webp",
+    "alt_text": "House Showpiece Plant image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:04.393Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 46,
+  "fields": {
+    "product": 46,
+    "image": "products/46/fa0c28ada2c448209595152f39bb5795.webp",
+    "alt_text": "Plant Pot image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:05.267Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 47,
+  "fields": {
+    "product": 47,
+    "image": "products/47/cda66ea29bf54340979882ecee61c8c0.webp",
+    "alt_text": "Table Lamp image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:05.679Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 48,
+  "fields": {
+    "product": 48,
+    "image": "products/48/30ebe039ce4c489f8abeed600651ffcc.webp",
+    "alt_text": "Bamboo Spatula image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:06.091Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 49,
+  "fields": {
+    "product": 49,
+    "image": "products/49/e76c166a765d4c059e11659bec36edbb.webp",
+    "alt_text": "Black Aluminium Cup image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:06.647Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 50,
+  "fields": {
+    "product": 50,
+    "image": "products/50/44412fd045634cf09f47a8e30ea686b3.webp",
+    "alt_text": "Black Whisk image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:07.164Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 51,
+  "fields": {
+    "product": 51,
+    "image": "products/51/8161d62f69214f7eb738654eb7909a48.webp",
+    "alt_text": "Boxed Blender image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:07.782Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 52,
+  "fields": {
+    "product": 52,
+    "image": "products/52/0a16c95b02f44b5589dc31be7769d6e5.webp",
+    "alt_text": "Carbon Steel Wok image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:09.155Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 53,
+  "fields": {
+    "product": 53,
+    "image": "products/53/c511c82b9b364c0293b81ca870beb49a.webp",
+    "alt_text": "Chopping Board image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:09.499Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 54,
+  "fields": {
+    "product": 54,
+    "image": "products/54/2b27040c584b4218bad5aeb210a0b511.webp",
+    "alt_text": "Citrus Squeezer Yellow image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:09.726Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 55,
+  "fields": {
+    "product": 55,
+    "image": "products/55/3a3c2f39345642c8873b9deeed513606.webp",
+    "alt_text": "Egg Slicer image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:09.927Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 56,
+  "fields": {
+    "product": 56,
+    "image": "products/56/3a1b7fe63d0243dba2bfd9775e069677.webp",
+    "alt_text": "Electric Stove image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:10.154Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 57,
+  "fields": {
+    "product": 57,
+    "image": "products/57/e887fce795ba4891a94f855195c6b014.webp",
+    "alt_text": "Fine Mesh Strainer image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:10.861Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 58,
+  "fields": {
+    "product": 58,
+    "image": "products/58/d7b7a88ac4d34b6584fa520e864aa06d.webp",
+    "alt_text": "Fork image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:11.235Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 59,
+  "fields": {
+    "product": 59,
+    "image": "products/59/b62f2085563b42bcbb716fa574a78c4b.webp",
+    "alt_text": "Glass image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:11.655Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 60,
+  "fields": {
+    "product": 60,
+    "image": "products/60/79f74e52b27d481b884d1a594d6a2fc1.webp",
+    "alt_text": "Grater Black image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:12.241Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 61,
+  "fields": {
+    "product": 61,
+    "image": "products/61/99e2c86277634305b75bed58140cb008.webp",
+    "alt_text": "Hand Blender image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:12.788Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 62,
+  "fields": {
+    "product": 62,
+    "image": "products/62/8d653ad951c146ff9c5fa9b8cef328c5.webp",
+    "alt_text": "Ice Cube Tray image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:13.344Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 63,
+  "fields": {
+    "product": 63,
+    "image": "products/63/3ea91e98c2234ee28e806f7718e2b182.webp",
+    "alt_text": "Kitchen Sieve image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:13.854Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 64,
+  "fields": {
+    "product": 64,
+    "image": "products/64/a34b82b3869d4a92af412c573e65c6ca.webp",
+    "alt_text": "Knife image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:14.242Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 65,
+  "fields": {
+    "product": 65,
+    "image": "products/65/1993946ba44d4e3580e3bfdbda51f58a.webp",
+    "alt_text": "Lunch Box image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:15.812Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 66,
+  "fields": {
+    "product": 66,
+    "image": "products/66/45648e90d614446ab3cf7c025aa2c740.webp",
+    "alt_text": "Microwave Oven image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:16.011Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 67,
+  "fields": {
+    "product": 67,
+    "image": "products/67/bcc7214a9b824c2b8e135a8998656876.webp",
+    "alt_text": "Mug Tree Stand image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:16.282Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 68,
+  "fields": {
+    "product": 68,
+    "image": "products/68/8018df1cdcec4130bf50e5425c1b9a17.webp",
+    "alt_text": "Pan image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:16.480Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 69,
+  "fields": {
+    "product": 69,
+    "image": "products/69/1a13f0cffc57404dbbd13614c2d72854.webp",
+    "alt_text": "Plate image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:16.755Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 70,
+  "fields": {
+    "product": 70,
+    "image": "products/70/b522fa5f6f6a4027ba375b56cd7fbd49.webp",
+    "alt_text": "Red Tongs image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:17.270Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 71,
+  "fields": {
+    "product": 71,
+    "image": "products/71/3160759280c948d08b05cf62e0b982a6.webp",
+    "alt_text": "Silver Pot With Glass Cap image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:17.497Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 72,
+  "fields": {
+    "product": 72,
+    "image": "products/72/facd7dce3d0944e483e14c07d39f8ea9.webp",
+    "alt_text": "Slotted Turner image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:17.708Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 73,
+  "fields": {
+    "product": 73,
+    "image": "products/73/0961f5680a11463583a032b50f66ebf6.webp",
+    "alt_text": "Spice Rack image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:17.926Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 74,
+  "fields": {
+    "product": 74,
+    "image": "products/74/b2bf26509c4f4b7ebd73b1214249a123.webp",
+    "alt_text": "Spoon image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:18.136Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 75,
+  "fields": {
+    "product": 75,
+    "image": "products/75/58a994391cdf40e8b4c880b9397a35b9.webp",
+    "alt_text": "Tray image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:18.759Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 76,
+  "fields": {
+    "product": 76,
+    "image": "products/76/144c5b9568f449e39aa6d341f5338b26.webp",
+    "alt_text": "Wooden Rolling Pin image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:18.978Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 77,
+  "fields": {
+    "product": 77,
+    "image": "products/77/5edb68d662864cb4b8c7b9361968aa78.webp",
+    "alt_text": "Yellow Peeler image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:19.207Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 78,
+  "fields": {
+    "product": 78,
+    "image": "products/78/bb13917e415d417282aed707d270b71a.webp",
+    "alt_text": "Apple MacBook Pro 14 Inch Space Grey image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:19.423Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 79,
+  "fields": {
+    "product": 79,
+    "image": "products/79/7c8e7761a4544bae9beb46456889ca97.webp",
+    "alt_text": "Asus Zenbook Pro Dual Screen Laptop image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:19.617Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 80,
+  "fields": {
+    "product": 80,
+    "image": "products/80/0483ed17243e440bb641dffc936c32bf.webp",
+    "alt_text": "Huawei Matebook X Pro image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:19.792Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 81,
+  "fields": {
+    "product": 81,
+    "image": "products/81/f722c45557ff427ebb75176c1c5dafb0.webp",
+    "alt_text": "Lenovo Yoga 920 image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:19.994Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 82,
+  "fields": {
+    "product": 82,
+    "image": "products/82/48e2ddc56c7144bdb7a99b0d97c58302.webp",
+    "alt_text": "New DELL XPS 13 9300 Laptop image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:20.246Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 83,
+  "fields": {
+    "product": 83,
+    "image": "products/83/cffb421cc6f54c88af6eedf9e0f5eca5.webp",
+    "alt_text": "Blue & Black Check Shirt image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:20.886Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 84,
+  "fields": {
+    "product": 84,
+    "image": "products/84/2a7a3ea4b89f4c67ac2ea0f7a1bec103.webp",
+    "alt_text": "Gigabyte Aorus Men Tshirt image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:21.081Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 85,
+  "fields": {
+    "product": 85,
+    "image": "products/85/3f5aa57f44c14eb1b35badb876b22446.webp",
+    "alt_text": "Man Plaid Shirt image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:21.294Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 86,
+  "fields": {
+    "product": 86,
+    "image": "products/86/8d178f1be9a044feb67bd31269f3a795.webp",
+    "alt_text": "Man Short Sleeve Shirt image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:21.510Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 87,
+  "fields": {
+    "product": 87,
+    "image": "products/87/2f9cc4b3248d4cae8b464822dee46781.webp",
+    "alt_text": "Men Check Shirt image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:21.746Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 88,
+  "fields": {
+    "product": 88,
+    "image": "products/88/c29b83a40e444b4c841509bf09db78d6.webp",
+    "alt_text": "Nike Air Jordan 1 Red And Black image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:21.952Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 89,
+  "fields": {
+    "product": 89,
+    "image": "products/89/423c9f510a8f4e66b020443fe6993b93.webp",
+    "alt_text": "Nike Baseball Cleats image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:22.172Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 90,
+  "fields": {
+    "product": 90,
+    "image": "products/90/684eeb88856046839158893b1e54dfd5.webp",
+    "alt_text": "Puma Future Rider Trainers image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:22.372Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 91,
+  "fields": {
+    "product": 91,
+    "image": "products/91/6eb6fdcc1e384979bca58abe3777b771.webp",
+    "alt_text": "Sports Sneakers Off White & Red image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:22.585Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 92,
+  "fields": {
+    "product": 92,
+    "image": "products/92/e8cc1155cb644009a6cb6150cf631190.webp",
+    "alt_text": "Sports Sneakers Off White Red image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:22.818Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 93,
+  "fields": {
+    "product": 93,
+    "image": "products/93/dee9ad694c21444f8abbae59c132239e.webp",
+    "alt_text": "Brown Leather Belt Watch image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:23.064Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 94,
+  "fields": {
+    "product": 94,
+    "image": "products/94/566091d2871a48f1abd8ad8f920a8a4b.webp",
+    "alt_text": "Longines Master Collection image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:23.281Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 95,
+  "fields": {
+    "product": 95,
+    "image": "products/95/d99ac9e3ba164d0abde01c142be02c38.webp",
+    "alt_text": "Rolex Cellini Date Black Dial image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:23.477Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 96,
+  "fields": {
+    "product": 96,
+    "image": "products/96/826ff9ae0827434dba5da2e977234e44.webp",
+    "alt_text": "Rolex Cellini Moonphase image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:23.732Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 97,
+  "fields": {
+    "product": 97,
+    "image": "products/97/702296ce3e6b495ba3efd280138b9a10.webp",
+    "alt_text": "Rolex Datejust image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:23.942Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 98,
+  "fields": {
+    "product": 98,
+    "image": "products/98/5e296dd071c14b34a8a34cd52e67761c.webp",
+    "alt_text": "Rolex Submariner Watch image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:24.137Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 99,
+  "fields": {
+    "product": 99,
+    "image": "products/99/c41c5ee2d8104e159a32ff06fd241840.webp",
+    "alt_text": "Amazon Echo Plus image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:24.362Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 100,
+  "fields": {
+    "product": 100,
+    "image": "products/100/7ef8bf529f234b7abf7d186b6e7bcfe7.webp",
+    "alt_text": "Apple Airpods image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:24.584Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 101,
+  "fields": {
+    "product": 101,
+    "image": "products/101/c8da16050acc4e6e945270545a13c00d.webp",
+    "alt_text": "Apple AirPods Max Silver image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:24.754Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 102,
+  "fields": {
+    "product": 102,
+    "image": "products/102/8bb35010a644426baa4dfbec0b6677b2.webp",
+    "alt_text": "Apple Airpower Wireless Charger image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:25.318Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 103,
+  "fields": {
+    "product": 103,
+    "image": "products/103/5ba75f45a4504e07be20aee9d94f3296.webp",
+    "alt_text": "Apple HomePod Mini Cosmic Grey image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:25.600Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 104,
+  "fields": {
+    "product": 104,
+    "image": "products/104/d383977f3bbc4f51bf008d6053a2d25f.webp",
+    "alt_text": "Apple iPhone Charger image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:25.829Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 105,
+  "fields": {
+    "product": 105,
+    "image": "products/105/6d0b6bc7378a4f16a8a3201e00261483.webp",
+    "alt_text": "Apple MagSafe Battery Pack image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:26.079Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 106,
+  "fields": {
+    "product": 106,
+    "image": "products/106/9ab6abf3092c4cb9b6ca1f5927c89c0e.webp",
+    "alt_text": "Apple Watch Series 4 Gold image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:26.331Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 107,
+  "fields": {
+    "product": 107,
+    "image": "products/107/47ce1c71a2114da29f71608f6ae29e9a.webp",
+    "alt_text": "Beats Flex Wireless Earphones image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:26.569Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 108,
+  "fields": {
+    "product": 108,
+    "image": "products/108/83a57ca7e3ff46428ff1e11e3fcb59c5.webp",
+    "alt_text": "iPhone 12 Silicone Case with MagSafe Plum image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:26.855Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 109,
+  "fields": {
+    "product": 109,
+    "image": "products/109/83a0147776264a65b56a0da4a9482eee.webp",
+    "alt_text": "Monopod image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:27.545Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 110,
+  "fields": {
+    "product": 110,
+    "image": "products/110/6c6b11c7679d468a98e76d8d95114729.webp",
+    "alt_text": "Selfie Lamp with iPhone image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:27.755Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 111,
+  "fields": {
+    "product": 111,
+    "image": "products/111/1eb46deb60d7425b8a0b1083b0a0bf1b.webp",
+    "alt_text": "Selfie Stick Monopod image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:27.977Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 112,
+  "fields": {
+    "product": 112,
+    "image": "products/112/15dc333645f9409d97999d26dc2b5d26.webp",
+    "alt_text": "TV Studio Camera Pedestal image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:28.228Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 113,
+  "fields": {
+    "product": 113,
+    "image": "products/113/62e986f966d046369c7e3000d77c7f41.webp",
+    "alt_text": "Generic Motorcycle image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:28.464Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 114,
+  "fields": {
+    "product": 114,
+    "image": "products/114/39683c029d804a669963065851c1bca1.webp",
+    "alt_text": "Kawasaki Z800 image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:28.692Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 115,
+  "fields": {
+    "product": 115,
+    "image": "products/115/b0abe26bad214281b44e8934dee9303d.webp",
+    "alt_text": "MotoGP CI.H1 image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:28.893Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 116,
+  "fields": {
+    "product": 116,
+    "image": "products/116/63fa7c472858426ab35e2fa5ec902dc3.webp",
+    "alt_text": "Scooter Motorcycle image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:29.120Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 117,
+  "fields": {
+    "product": 117,
+    "image": "products/117/83b8aff509f6400fa95f5bd1caade9b7.webp",
+    "alt_text": "Sportbike Motorcycle image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:29.286Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 118,
+  "fields": {
+    "product": 118,
+    "image": "products/118/4147bb4585184ce9857ba2c0190b938d.webp",
+    "alt_text": "Attitude Super Leaves Hand Soap image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:29.496Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 119,
+  "fields": {
+    "product": 119,
+    "image": "products/119/5ab9193d38954bb6a62d50a79776adc8.webp",
+    "alt_text": "Olay Ultra Moisture Shea Butter Body Wash image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:29.710Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 120,
+  "fields": {
+    "product": 120,
+    "image": "products/120/41adb27c94624115980aa2862d3a7132.webp",
+    "alt_text": "Vaseline Men Body and Face Lotion image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:29.911Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 121,
+  "fields": {
+    "product": 121,
+    "image": "products/121/0789923a9fdb4b23a8233fee8106c49a.webp",
+    "alt_text": "iPhone 5s image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:30.212Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 122,
+  "fields": {
+    "product": 122,
+    "image": "products/122/18c7cd0a96b34188b7fe21f656c883b5.webp",
+    "alt_text": "iPhone 6 image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:30.435Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 123,
+  "fields": {
+    "product": 123,
+    "image": "products/123/cb343130673348fab7899ff0b142aadf.webp",
+    "alt_text": "iPhone 13 Pro image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:30.664Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 124,
+  "fields": {
+    "product": 124,
+    "image": "products/124/7c4e0d06700d41e08e0acef117ec9bfe.webp",
+    "alt_text": "iPhone X image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:30.894Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 125,
+  "fields": {
+    "product": 125,
+    "image": "products/125/6eb20e985e5a40b5b5934dcdc630ece8.webp",
+    "alt_text": "Oppo A57 image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:31.163Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 126,
+  "fields": {
+    "product": 126,
+    "image": "products/126/8a622aa9347f4150b377385936c6222e.webp",
+    "alt_text": "Oppo F19 Pro Plus image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:31.430Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 127,
+  "fields": {
+    "product": 127,
+    "image": "products/127/746d35b03c3949faa340370f6dda9690.webp",
+    "alt_text": "Oppo K1 image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:31.679Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 128,
+  "fields": {
+    "product": 128,
+    "image": "products/128/f8f9786cf9154d72aee1ec737e289eda.webp",
+    "alt_text": "Realme C35 image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:31.909Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 129,
+  "fields": {
+    "product": 129,
+    "image": "products/129/2554b35185bc43d5a7d254d2e69e5685.webp",
+    "alt_text": "Realme X image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:32.464Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 130,
+  "fields": {
+    "product": 130,
+    "image": "products/130/44686f65ca8f40dbab6d2f1a11ca55d9.webp",
+    "alt_text": "Realme XT image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:32.695Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 131,
+  "fields": {
+    "product": 131,
+    "image": "products/131/2769e959f02645799e6ab356c501e3ed.webp",
+    "alt_text": "Samsung Galaxy S7 image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:32.909Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 132,
+  "fields": {
+    "product": 132,
+    "image": "products/132/401885df13504a3e9a4e34b0f6af1fe6.webp",
+    "alt_text": "Samsung Galaxy S8 image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:33.167Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 133,
+  "fields": {
+    "product": 133,
+    "image": "products/133/54512e09a76c4e249f2b88b20327b649.webp",
+    "alt_text": "Samsung Galaxy S10 image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:33.398Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 134,
+  "fields": {
+    "product": 134,
+    "image": "products/134/25a83e3f136d40d6a43259f7650e4fa0.webp",
+    "alt_text": "Vivo S1 image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:33.672Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 135,
+  "fields": {
+    "product": 135,
+    "image": "products/135/c5a0fed212454b0f8edced8bd7fa4e21.webp",
+    "alt_text": "Vivo V9 image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:33.903Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 136,
+  "fields": {
+    "product": 136,
+    "image": "products/136/0438037bc67343ca9f937e3169597d01.webp",
+    "alt_text": "Vivo X21 image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:34.164Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 137,
+  "fields": {
+    "product": 137,
+    "image": "products/137/32ccaf1d996d4f0ca023607c902956c4.webp",
+    "alt_text": "American Football image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:34.410Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 138,
+  "fields": {
+    "product": 138,
+    "image": "products/138/9fc167434ec64d7683b002883ed08477.webp",
+    "alt_text": "Baseball Ball image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:34.626Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 139,
+  "fields": {
+    "product": 139,
+    "image": "products/139/2852804d41c9473db6d581b7b3098ce9.webp",
+    "alt_text": "Baseball Glove image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:35.263Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 140,
+  "fields": {
+    "product": 140,
+    "image": "products/140/e6ab6047ddb94431a1d6a9880f63d834.webp",
+    "alt_text": "Basketball image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:35.539Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 141,
+  "fields": {
+    "product": 141,
+    "image": "products/141/d9d24bb4ca8f4745aa9315f81c931145.webp",
+    "alt_text": "Basketball Rim image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:35.786Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 142,
+  "fields": {
+    "product": 142,
+    "image": "products/142/dd076e4c27d74fa8a27b23eecda3098e.webp",
+    "alt_text": "Cricket Ball image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:36.022Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 143,
+  "fields": {
+    "product": 143,
+    "image": "products/143/06f00d7c9862451a9fbf2e5306b30990.webp",
+    "alt_text": "Cricket Bat image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:36.260Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 144,
+  "fields": {
+    "product": 144,
+    "image": "products/144/7b6c4d2a14414b2dab8583c742993831.webp",
+    "alt_text": "Cricket Helmet image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:36.580Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 145,
+  "fields": {
+    "product": 145,
+    "image": "products/145/723c74d4f2df46e98f0c9d05860c790b.webp",
+    "alt_text": "Cricket Wicket image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:36.795Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 146,
+  "fields": {
+    "product": 146,
+    "image": "products/146/a481169aa155413091f4a25744639b07.webp",
+    "alt_text": "Feather Shuttlecock image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:37.009Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 147,
+  "fields": {
+    "product": 147,
+    "image": "products/147/5a224f27069845d4a30b871f44975298.webp",
+    "alt_text": "Football image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:37.197Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 148,
+  "fields": {
+    "product": 148,
+    "image": "products/148/3336fe2f0e604256b03677d6e2a1cc4b.webp",
+    "alt_text": "Golf Ball image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:37.443Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 149,
+  "fields": {
+    "product": 149,
+    "image": "products/149/3cc6c6cc6772411e9d4a117678d4a226.webp",
+    "alt_text": "Iron Golf image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:37.618Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 150,
+  "fields": {
+    "product": 150,
+    "image": "products/150/eac0e4b85a124ac7af47061a83f704f9.webp",
+    "alt_text": "Metal Baseball Bat image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:37.830Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 151,
+  "fields": {
+    "product": 151,
+    "image": "products/151/06007eedd75c446685924391234e92ec.webp",
+    "alt_text": "Tennis Ball image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:38.067Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 152,
+  "fields": {
+    "product": 152,
+    "image": "products/152/075235d0bf9847a3802ae25179c56e43.webp",
+    "alt_text": "Tennis Racket image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:38.232Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 153,
+  "fields": {
+    "product": 153,
+    "image": "products/153/99c9ccae5afe4ae08cc03b8ca745e117.webp",
+    "alt_text": "Volleyball image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:38.480Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 154,
+  "fields": {
+    "product": 154,
+    "image": "products/154/ef95b8b5d1ce4600bf205e7ece68c997.webp",
+    "alt_text": "Black Sun Glasses image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:38.665Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 155,
+  "fields": {
+    "product": 155,
+    "image": "products/155/1d1579527cb34b99ad89eb37bccb7f3e.webp",
+    "alt_text": "Classic Sun Glasses image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:38.900Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 156,
+  "fields": {
+    "product": 156,
+    "image": "products/156/4c9bfdd892f94f829236c09940337419.webp",
+    "alt_text": "Green and Black Glasses image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:39.141Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 157,
+  "fields": {
+    "product": 157,
+    "image": "products/157/19be0d21fd504c86915813af21cab614.webp",
+    "alt_text": "Party Glasses image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:39.758Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 158,
+  "fields": {
+    "product": 158,
+    "image": "products/158/f8eaa481575e48729384b085efda6503.webp",
+    "alt_text": "Sunglasses image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:39.993Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 159,
+  "fields": {
+    "product": 159,
+    "image": "products/159/d746181ae7984f0f8b9cd714f8d9cc30.webp",
+    "alt_text": "iPad Mini 2021 Starlight image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:40.360Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 160,
+  "fields": {
+    "product": 160,
+    "image": "products/160/6f762d6a34c347979e6a0fcb1ed3b6cc.webp",
+    "alt_text": "Samsung Galaxy Tab S8 Plus Grey image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:40.574Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 161,
+  "fields": {
+    "product": 161,
+    "image": "products/161/a2b9406a1345435d9568ffa5240b3b16.webp",
+    "alt_text": "Samsung Galaxy Tab White image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:41.227Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 162,
+  "fields": {
+    "product": 162,
+    "image": "products/162/4a770dcbb7d4437d972fe1a19a3618fc.webp",
+    "alt_text": "Blue Frock image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:41.458Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 163,
+  "fields": {
+    "product": 163,
+    "image": "products/163/f933cac2bb3a487e82747207f77a2686.webp",
+    "alt_text": "Girl Summer Dress image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:41.693Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 164,
+  "fields": {
+    "product": 164,
+    "image": "products/164/908b45ee0d914c1faeee0ed066dae007.webp",
+    "alt_text": "Gray Dress image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:41.940Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 165,
+  "fields": {
+    "product": 165,
+    "image": "products/165/5473fbf753ef469589b147d3c5f29921.webp",
+    "alt_text": "Short Frock image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:42.156Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 166,
+  "fields": {
+    "product": 166,
+    "image": "products/166/99fcbef1da104fbbb27915edf9069044.webp",
+    "alt_text": "Tartan Dress image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:42.395Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 167,
+  "fields": {
+    "product": 167,
+    "image": "products/167/08d999d3c20e44298c70871673c616df.webp",
+    "alt_text": "300 Touring image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:42.643Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 168,
+  "fields": {
+    "product": 168,
+    "image": "products/168/85eb2016851f483295ce02e431296c22.webp",
+    "alt_text": "Charger SXT RWD image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:42.907Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 169,
+  "fields": {
+    "product": 169,
+    "image": "products/169/411ed90257114ce49b8122974d49aea7.webp",
+    "alt_text": "Dodge Hornet GT Plus image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:43.114Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 170,
+  "fields": {
+    "product": 170,
+    "image": "products/170/dc5cac676f864dd9be0d862fd0678df0.webp",
+    "alt_text": "Durango SXT RWD image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:43.739Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 171,
+  "fields": {
+    "product": 171,
+    "image": "products/171/35ad7ffae7a842979193285d18cc81b8.webp",
+    "alt_text": "Pacifica Touring image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:44.222Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 172,
+  "fields": {
+    "product": 172,
+    "image": "products/172/080d3d90d37e4d179abfa997a2439276.webp",
+    "alt_text": "Blue Women's Handbag image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:44.434Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 173,
+  "fields": {
+    "product": 173,
+    "image": "products/173/6190c22f4fb54fef806fc22f74df470b.webp",
+    "alt_text": "Heshe Women's Leather Bag image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:44.643Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 174,
+  "fields": {
+    "product": 174,
+    "image": "products/174/434d95095f164af699d796799b01d07a.webp",
+    "alt_text": "Prada Women Bag image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:44.823Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 175,
+  "fields": {
+    "product": 175,
+    "image": "products/175/98547b3f8e1f4ebd8c643273f420dd76.webp",
+    "alt_text": "White Faux Leather Backpack image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:45.138Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 176,
+  "fields": {
+    "product": 176,
+    "image": "products/176/b0c87256d3884bc29232a7ebc31d9dc3.webp",
+    "alt_text": "Women Handbag Black image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:45.362Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 177,
+  "fields": {
+    "product": 177,
+    "image": "products/177/25bd6bebf8c941e4bdfe59751762186b.webp",
+    "alt_text": "Black Women's Gown image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:45.584Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 178,
+  "fields": {
+    "product": 178,
+    "image": "products/178/ff7bf747b143457bab9b783c667ae679.webp",
+    "alt_text": "Corset Leather With Skirt image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:45.801Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 179,
+  "fields": {
+    "product": 179,
+    "image": "products/179/4ca7ac183b8f4640aa699682428d65b7.webp",
+    "alt_text": "Corset With Black Skirt image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:46.050Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 180,
+  "fields": {
+    "product": 180,
+    "image": "products/180/b97a9e23ad114e929e1390f7bb4d2bcd.webp",
+    "alt_text": "Dress Pea image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:46.347Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 181,
+  "fields": {
+    "product": 181,
+    "image": "products/181/f985585274ea4543ba2eeac87106d357.webp",
+    "alt_text": "Marni Red & Black Suit image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:46.579Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 182,
+  "fields": {
+    "product": 182,
+    "image": "products/182/4df59c1ccfad42bfbc16e1bd1f189f14.webp",
+    "alt_text": "Green Crystal Earring image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:46.805Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 183,
+  "fields": {
+    "product": 183,
+    "image": "products/183/4a01505afd9441a389ef4f59c5d7fbd1.webp",
+    "alt_text": "Green Oval Earring image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:47.024Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 184,
+  "fields": {
+    "product": 184,
+    "image": "products/184/ca0db001c1b34442b65f04a1300a66a5.webp",
+    "alt_text": "Tropical Earring image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:47.231Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 185,
+  "fields": {
+    "product": 185,
+    "image": "products/185/b049b47a0eab4479904e25456dffebcc.webp",
+    "alt_text": "Black & Brown Slipper image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:47.483Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 186,
+  "fields": {
+    "product": 186,
+    "image": "products/186/6ac8ea7ee89446e7ac6ae602a35beb38.webp",
+    "alt_text": "Calvin Klein Heel Shoes image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:47.712Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 187,
+  "fields": {
+    "product": 187,
+    "image": "products/187/7ed2e6a7b75241cf9c8f29a85ace0669.webp",
+    "alt_text": "Golden Shoes Woman image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:47.896Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 188,
+  "fields": {
+    "product": 188,
+    "image": "products/188/e2c59ba1ccdd4b5e9db4674606df4511.webp",
+    "alt_text": "Pampi Shoes image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:48.118Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 189,
+  "fields": {
+    "product": 189,
+    "image": "products/189/633cbb5c058e4b78b260179a5e8e1a5d.webp",
+    "alt_text": "Red Shoes image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:48.293Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 190,
+  "fields": {
+    "product": 190,
+    "image": "products/190/873456e03f334e528c8c0806c9a06785.webp",
+    "alt_text": "IWC Ingenieur Automatic Steel image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:48.536Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 191,
+  "fields": {
+    "product": 191,
+    "image": "products/191/52fbfd1a47fd47efa498d25c25402a70.webp",
+    "alt_text": "Rolex Cellini Moonphase image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:48.784Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 192,
+  "fields": {
+    "product": 192,
+    "image": "products/192/eed01e4abb5b401090ad2c36896efbb4.webp",
+    "alt_text": "Rolex Datejust Women image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:49.006Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 193,
+  "fields": {
+    "product": 193,
+    "image": "products/193/fc49811762e54f3cbd1c9ed2d11490c7.webp",
+    "alt_text": "Watch Gold for Women image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:49.232Z"
+  }
+},
+{
+  "model": "products.productimage",
+  "pk": 194,
+  "fields": {
+    "product": 194,
+    "image": "products/194/19a0031c045348eebf4eed32e4951b76.webp",
+    "alt_text": "Women's Wrist Watch image 0",
+    "is_primary": true,
+    "position": 0,
+    "created_at": "2026-11-18T12:39:50.082Z"
+  }
+}
+]
